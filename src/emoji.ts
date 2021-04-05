@@ -1,90 +1,90 @@
 export const emojis = {
   '😀': {
-    name: 'grinning face',
+    name: 'grinning-face',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '😃': {
-    name: 'grinning face with big eyes',
+    name: 'grinning-face-with-big-eyes',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😄': {
-    name: 'grinning face with smiling eyes',
+    name: 'grinning-face-with-smiling-eyes',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😁': {
-    name: 'beaming face with smiling eyes',
+    name: 'beaming-face-with-smiling-eyes',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😆': {
-    name: 'grinning squinting face',
+    name: 'grinning-squinting-face',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😅': {
-    name: 'grinning face with sweat',
+    name: 'grinning-face-with-sweat',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '🤣': {
-    name: 'rolling on the floor laughing',
+    name: 'rolling-on-the-floor-laughing',
     group: 'Smileys & Emotion',
     version: '3.0',
     skin_tone_support: false
   },
   '😂': {
-    name: 'face with tears of joy',
+    name: 'face-with-tears-of-joy',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '🙂': {
-    name: 'slightly smiling face',
+    name: 'slightly-smiling-face',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '🙃': {
-    name: 'upside-down face',
+    name: 'upside-down-face',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '😉': {
-    name: 'winking face',
+    name: 'winking-face',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😊': {
-    name: 'smiling face with smiling eyes',
+    name: 'smiling-face-with-smiling-eyes',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😇': {
-    name: 'smiling face with halo',
+    name: 'smiling-face-with-halo',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '🥰': {
-    name: 'smiling face with hearts',
+    name: 'smiling-face-with-hearts',
     group: 'Smileys & Emotion',
     version: '11.0',
     skin_tone_support: false
   },
   '😍': {
-    name: 'smiling face with heart-eyes',
+    name: 'smiling-face-with-heart-eyes',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
@@ -96,469 +96,469 @@ export const emojis = {
     skin_tone_support: false
   },
   '😘': {
-    name: 'face blowing a kiss',
+    name: 'face-blowing-a-kiss',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😗': {
-    name: 'kissing face',
+    name: 'kissing-face',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '☺️': {
-    name: 'smiling face',
+    name: 'smiling-face',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😚': {
-    name: 'kissing face with closed eyes',
+    name: 'kissing-face-with-closed-eyes',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😙': {
-    name: 'kissing face with smiling eyes',
+    name: 'kissing-face-with-smiling-eyes',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '🥲': {
-    name: 'smiling face with tear',
+    name: 'smiling-face-with-tear',
     group: 'Smileys & Emotion',
     version: '13.0',
     skin_tone_support: false
   },
   '😋': {
-    name: 'face savoring food',
+    name: 'face-savoring-food',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😛': {
-    name: 'face with tongue',
+    name: 'face-with-tongue',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '😜': {
-    name: 'winking face with tongue',
+    name: 'winking-face-with-tongue',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '🤪': {
-    name: 'zany face',
+    name: 'zany-face',
     group: 'Smileys & Emotion',
     version: '5.0',
     skin_tone_support: false
   },
   '😝': {
-    name: 'squinting face with tongue',
+    name: 'squinting-face-with-tongue',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '🤑': {
-    name: 'money-mouth face',
+    name: 'money-mouth-face',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '🤗': {
-    name: 'hugging face',
+    name: 'hugging-face',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '🤭': {
-    name: 'face with hand over mouth',
+    name: 'face-with-hand-over-mouth',
     group: 'Smileys & Emotion',
     version: '5.0',
     skin_tone_support: false
   },
   '🤫': {
-    name: 'shushing face',
+    name: 'shushing-face',
     group: 'Smileys & Emotion',
     version: '5.0',
     skin_tone_support: false
   },
   '🤔': {
-    name: 'thinking face',
+    name: 'thinking-face',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '🤐': {
-    name: 'zipper-mouth face',
+    name: 'zipper-mouth-face',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '🤨': {
-    name: 'face with raised eyebrow',
+    name: 'face-with-raised-eyebrow',
     group: 'Smileys & Emotion',
     version: '5.0',
     skin_tone_support: false
   },
   '😐': {
-    name: 'neutral face',
+    name: 'neutral-face',
     group: 'Smileys & Emotion',
     version: '0.7',
     skin_tone_support: false
   },
   '😑': {
-    name: 'expressionless face',
+    name: 'expressionless-face',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '😶': {
-    name: 'face without mouth',
+    name: 'face-without-mouth',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '😏': {
-    name: 'smirking face',
+    name: 'smirking-face',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😒': {
-    name: 'unamused face',
+    name: 'unamused-face',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '🙄': {
-    name: 'face with rolling eyes',
+    name: 'face-with-rolling-eyes',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '😬': {
-    name: 'grimacing face',
+    name: 'grimacing-face',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '🤥': {
-    name: 'lying face',
+    name: 'lying-face',
     group: 'Smileys & Emotion',
     version: '3.0',
     skin_tone_support: false
   },
   '😌': {
-    name: 'relieved face',
+    name: 'relieved-face',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😔': {
-    name: 'pensive face',
+    name: 'pensive-face',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😪': {
-    name: 'sleepy face',
+    name: 'sleepy-face',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '🤤': {
-    name: 'drooling face',
+    name: 'drooling-face',
     group: 'Smileys & Emotion',
     version: '3.0',
     skin_tone_support: false
   },
   '😴': {
-    name: 'sleeping face',
+    name: 'sleeping-face',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '😷': {
-    name: 'face with medical mask',
+    name: 'face-with-medical-mask',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '🤒': {
-    name: 'face with thermometer',
+    name: 'face-with-thermometer',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '🤕': {
-    name: 'face with head-bandage',
+    name: 'face-with-head-bandage',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '🤢': {
-    name: 'nauseated face',
+    name: 'nauseated-face',
     group: 'Smileys & Emotion',
     version: '3.0',
     skin_tone_support: false
   },
   '🤮': {
-    name: 'face vomiting',
+    name: 'face-vomiting',
     group: 'Smileys & Emotion',
     version: '5.0',
     skin_tone_support: false
   },
   '🤧': {
-    name: 'sneezing face',
+    name: 'sneezing-face',
     group: 'Smileys & Emotion',
     version: '3.0',
     skin_tone_support: false
   },
   '🥵': {
-    name: 'hot face',
+    name: 'hot-face',
     group: 'Smileys & Emotion',
     version: '11.0',
     skin_tone_support: false
   },
   '🥶': {
-    name: 'cold face',
+    name: 'cold-face',
     group: 'Smileys & Emotion',
     version: '11.0',
     skin_tone_support: false
   },
   '🥴': {
-    name: 'woozy face',
+    name: 'woozy-face',
     group: 'Smileys & Emotion',
     version: '11.0',
     skin_tone_support: false
   },
   '😵': {
-    name: 'knocked-out face',
+    name: 'knocked-out-face',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '🤯': {
-    name: 'exploding head',
+    name: 'exploding-head',
     group: 'Smileys & Emotion',
     version: '5.0',
     skin_tone_support: false
   },
   '🤠': {
-    name: 'cowboy hat face',
+    name: 'cowboy-hat-face',
     group: 'Smileys & Emotion',
     version: '3.0',
     skin_tone_support: false
   },
   '🥳': {
-    name: 'partying face',
+    name: 'partying-face',
     group: 'Smileys & Emotion',
     version: '11.0',
     skin_tone_support: false
   },
   '🥸': {
-    name: 'disguised face',
+    name: 'disguised-face',
     group: 'Smileys & Emotion',
     version: '13.0',
     skin_tone_support: false
   },
   '😎': {
-    name: 'smiling face with sunglasses',
+    name: 'smiling-face-with-sunglasses',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '🤓': {
-    name: 'nerd face',
+    name: 'nerd-face',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '🧐': {
-    name: 'face with monocle',
+    name: 'face-with-monocle',
     group: 'Smileys & Emotion',
     version: '5.0',
     skin_tone_support: false
   },
   '😕': {
-    name: 'confused face',
+    name: 'confused-face',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '😟': {
-    name: 'worried face',
+    name: 'worried-face',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '🙁': {
-    name: 'slightly frowning face',
+    name: 'slightly-frowning-face',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '☹️': {
-    name: 'frowning face',
+    name: 'frowning-face',
     group: 'Smileys & Emotion',
     version: '0.7',
     skin_tone_support: false
   },
   '😮': {
-    name: 'face with open mouth',
+    name: 'face-with-open-mouth',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '😯': {
-    name: 'hushed face',
+    name: 'hushed-face',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '😲': {
-    name: 'astonished face',
+    name: 'astonished-face',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😳': {
-    name: 'flushed face',
+    name: 'flushed-face',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '🥺': {
-    name: 'pleading face',
+    name: 'pleading-face',
     group: 'Smileys & Emotion',
     version: '11.0',
     skin_tone_support: false
   },
   '😦': {
-    name: 'frowning face with open mouth',
+    name: 'frowning-face-with-open-mouth',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '😧': {
-    name: 'anguished face',
+    name: 'anguished-face',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '😨': {
-    name: 'fearful face',
+    name: 'fearful-face',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😰': {
-    name: 'anxious face with sweat',
+    name: 'anxious-face-with-sweat',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😥': {
-    name: 'sad but relieved face',
+    name: 'sad-but-relieved-face',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😢': {
-    name: 'crying face',
+    name: 'crying-face',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😭': {
-    name: 'loudly crying face',
+    name: 'loudly-crying-face',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😱': {
-    name: 'face screaming in fear',
+    name: 'face-screaming-in-fear',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😖': {
-    name: 'confounded face',
+    name: 'confounded-face',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😣': {
-    name: 'persevering face',
+    name: 'persevering-face',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😞': {
-    name: 'disappointed face',
+    name: 'disappointed-face',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😓': {
-    name: 'downcast face with sweat',
+    name: 'downcast-face-with-sweat',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😩': {
-    name: 'weary face',
+    name: 'weary-face',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😫': {
-    name: 'tired face',
+    name: 'tired-face',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '🥱': {
-    name: 'yawning face',
+    name: 'yawning-face',
     group: 'Smileys & Emotion',
     version: '12.0',
     skin_tone_support: false
   },
   '😤': {
-    name: 'face with steam from nose',
+    name: 'face-with-steam-from-nose',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😡': {
-    name: 'pouting face',
+    name: 'pouting-face',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😠': {
-    name: 'angry face',
+    name: 'angry-face',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '🤬': {
-    name: 'face with symbols on mouth',
+    name: 'face-with-symbols-on-mouth',
     group: 'Smileys & Emotion',
     version: '5.0',
     skin_tone_support: false
   },
   '😈': {
-    name: 'smiling face with horns',
+    name: 'smiling-face-with-horns',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '👿': {
-    name: 'angry face with horns',
+    name: 'angry-face-with-horns',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
@@ -570,19 +570,19 @@ export const emojis = {
     skin_tone_support: false
   },
   '☠️': {
-    name: 'skull and crossbones',
+    name: 'skull-and-crossbones',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '💩': {
-    name: 'pile of poo',
+    name: 'pile-of-poo',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '🤡': {
-    name: 'clown face',
+    name: 'clown-face',
     group: 'Smileys & Emotion',
     version: '3.0',
     skin_tone_support: false
@@ -612,7 +612,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '👾': {
-    name: 'alien monster',
+    name: 'alien-monster',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
@@ -624,211 +624,211 @@ export const emojis = {
     skin_tone_support: false
   },
   '😺': {
-    name: 'grinning cat',
+    name: 'grinning-cat',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😸': {
-    name: 'grinning cat with smiling eyes',
+    name: 'grinning-cat-with-smiling-eyes',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😹': {
-    name: 'cat with tears of joy',
+    name: 'cat-with-tears-of-joy',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😻': {
-    name: 'smiling cat with heart-eyes',
+    name: 'smiling-cat-with-heart-eyes',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😼': {
-    name: 'cat with wry smile',
+    name: 'cat-with-wry-smile',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😽': {
-    name: 'kissing cat',
+    name: 'kissing-cat',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '🙀': {
-    name: 'weary cat',
+    name: 'weary-cat',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😿': {
-    name: 'crying cat',
+    name: 'crying-cat',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '😾': {
-    name: 'pouting cat',
+    name: 'pouting-cat',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '🙈': {
-    name: 'see-no-evil monkey',
+    name: 'see-no-evil-monkey',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '🙉': {
-    name: 'hear-no-evil monkey',
+    name: 'hear-no-evil-monkey',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '🙊': {
-    name: 'speak-no-evil monkey',
+    name: 'speak-no-evil-monkey',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '💋': {
-    name: 'kiss mark',
+    name: 'kiss-mark',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '💌': {
-    name: 'love letter',
+    name: 'love-letter',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '💘': {
-    name: 'heart with arrow',
+    name: 'heart-with-arrow',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '💝': {
-    name: 'heart with ribbon',
+    name: 'heart-with-ribbon',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '💖': {
-    name: 'sparkling heart',
+    name: 'sparkling-heart',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '💗': {
-    name: 'growing heart',
+    name: 'growing-heart',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '💓': {
-    name: 'beating heart',
+    name: 'beating-heart',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '💞': {
-    name: 'revolving hearts',
+    name: 'revolving-hearts',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '💕': {
-    name: 'two hearts',
+    name: 'two-hearts',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '💟': {
-    name: 'heart decoration',
+    name: 'heart-decoration',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '❣️': {
-    name: 'heart exclamation',
+    name: 'heart-exclamation',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
   },
   '💔': {
-    name: 'broken heart',
+    name: 'broken-heart',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '❤️': {
-    name: 'red heart',
+    name: 'red-heart',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '🧡': {
-    name: 'orange heart',
+    name: 'orange-heart',
     group: 'Smileys & Emotion',
     version: '5.0',
     skin_tone_support: false
   },
   '💛': {
-    name: 'yellow heart',
+    name: 'yellow-heart',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '💚': {
-    name: 'green heart',
+    name: 'green-heart',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '💙': {
-    name: 'blue heart',
+    name: 'blue-heart',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '💜': {
-    name: 'purple heart',
+    name: 'purple-heart',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '🤎': {
-    name: 'brown heart',
+    name: 'brown-heart',
     group: 'Smileys & Emotion',
     version: '12.0',
     skin_tone_support: false
   },
   '🖤': {
-    name: 'black heart',
+    name: 'black-heart',
     group: 'Smileys & Emotion',
     version: '3.0',
     skin_tone_support: false
   },
   '🤍': {
-    name: 'white heart',
+    name: 'white-heart',
     group: 'Smileys & Emotion',
     version: '12.0',
     skin_tone_support: false
   },
   '💯': {
-    name: 'hundred points',
+    name: 'hundred-points',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '💢': {
-    name: 'anger symbol',
+    name: 'anger-symbol',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
@@ -846,13 +846,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '💦': {
-    name: 'sweat droplets',
+    name: 'sweat-droplets',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '💨': {
-    name: 'dashing away',
+    name: 'dashing-away',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
@@ -870,31 +870,31 @@ export const emojis = {
     skin_tone_support: false
   },
   '💬': {
-    name: 'speech balloon',
+    name: 'speech-balloon',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '👁️‍🗨️': {
-    name: 'eye in speech bubble',
+    name: 'eye-in-speech-bubble',
     group: 'Smileys & Emotion',
     version: '2.0',
     skin_tone_support: false
   },
   '🗨️': {
-    name: 'left speech bubble',
+    name: 'left-speech-bubble',
     group: 'Smileys & Emotion',
     version: '2.0',
     skin_tone_support: false
   },
   '🗯️': {
-    name: 'right anger bubble',
+    name: 'right-anger-bubble',
     group: 'Smileys & Emotion',
     version: '0.7',
     skin_tone_support: false
   },
   '💭': {
-    name: 'thought balloon',
+    name: 'thought-balloon',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
@@ -906,203 +906,203 @@ export const emojis = {
     skin_tone_support: false
   },
   '👋': {
-    name: 'waving hand',
+    name: 'waving-hand',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🤚': {
-    name: 'raised back of hand',
+    name: 'raised-back-of-hand',
     group: 'People & Body',
     version: '3.0',
     skin_tone_support: true,
     skin_tone_support_version: '3.0'
   },
   '🖐️': {
-    name: 'hand with fingers splayed',
+    name: 'hand-with-fingers-splayed',
     group: 'People & Body',
     version: '0.7',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '✋': {
-    name: 'raised hand',
+    name: 'raised-hand',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🖖': {
-    name: 'vulcan salute',
+    name: 'vulcan-salute',
     group: 'People & Body',
     version: '1.0',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '👌': {
-    name: 'OK hand',
+    name: 'OK-hand',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🤌': {
-    name: 'pinched fingers',
+    name: 'pinched-fingers',
     group: 'People & Body',
     version: '13.0',
     skin_tone_support: true,
     skin_tone_support_version: '13.0'
   },
   '🤏': {
-    name: 'pinching hand',
+    name: 'pinching-hand',
     group: 'People & Body',
     version: '12.0',
     skin_tone_support: true,
     skin_tone_support_version: '12.0'
   },
   '✌️': {
-    name: 'victory hand',
+    name: 'victory-hand',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🤞': {
-    name: 'crossed fingers',
+    name: 'crossed-fingers',
     group: 'People & Body',
     version: '3.0',
     skin_tone_support: true,
     skin_tone_support_version: '3.0'
   },
   '🤟': {
-    name: 'love-you gesture',
+    name: 'love-you-gesture',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: true,
     skin_tone_support_version: '5.0'
   },
   '🤘': {
-    name: 'sign of the horns',
+    name: 'sign-of-the-horns',
     group: 'People & Body',
     version: '1.0',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🤙': {
-    name: 'call me hand',
+    name: 'call-me-hand',
     group: 'People & Body',
     version: '3.0',
     skin_tone_support: true,
     skin_tone_support_version: '3.0'
   },
   '👈': {
-    name: 'backhand index pointing left',
+    name: 'backhand-index-pointing-left',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '👉': {
-    name: 'backhand index pointing right',
+    name: 'backhand-index-pointing-right',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '👆': {
-    name: 'backhand index pointing up',
+    name: 'backhand-index-pointing-up',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🖕': {
-    name: 'middle finger',
+    name: 'middle-finger',
     group: 'People & Body',
     version: '1.0',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '👇': {
-    name: 'backhand index pointing down',
+    name: 'backhand-index-pointing-down',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '☝️': {
-    name: 'index pointing up',
+    name: 'index-pointing-up',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '👍': {
-    name: 'thumbs up',
+    name: 'thumbs-up',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '👎': {
-    name: 'thumbs down',
+    name: 'thumbs-down',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '✊': {
-    name: 'raised fist',
+    name: 'raised-fist',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '👊': {
-    name: 'oncoming fist',
+    name: 'oncoming-fist',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🤛': {
-    name: 'left-facing fist',
+    name: 'left-facing-fist',
     group: 'People & Body',
     version: '3.0',
     skin_tone_support: true,
     skin_tone_support_version: '3.0'
   },
   '🤜': {
-    name: 'right-facing fist',
+    name: 'right-facing-fist',
     group: 'People & Body',
     version: '3.0',
     skin_tone_support: true,
     skin_tone_support_version: '3.0'
   },
   '👏': {
-    name: 'clapping hands',
+    name: 'clapping-hands',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🙌': {
-    name: 'raising hands',
+    name: 'raising-hands',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '👐': {
-    name: 'open hands',
+    name: 'open-hands',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🤲': {
-    name: 'palms up together',
+    name: 'palms-up-together',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: true,
@@ -1115,21 +1115,21 @@ export const emojis = {
     skin_tone_support: false
   },
   '🙏': {
-    name: 'folded hands',
+    name: 'folded-hands',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '✍️': {
-    name: 'writing hand',
+    name: 'writing-hand',
     group: 'People & Body',
     version: '0.7',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '💅': {
-    name: 'nail polish',
+    name: 'nail-polish',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
@@ -1143,20 +1143,20 @@ export const emojis = {
     skin_tone_support_version: '3.0'
   },
   '💪': {
-    name: 'flexed biceps',
+    name: 'flexed-biceps',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🦾': {
-    name: 'mechanical arm',
+    name: 'mechanical-arm',
     group: 'People & Body',
     version: '12.0',
     skin_tone_support: false
   },
   '🦿': {
-    name: 'mechanical leg',
+    name: 'mechanical-leg',
     group: 'People & Body',
     version: '12.0',
     skin_tone_support: false
@@ -1183,7 +1183,7 @@ export const emojis = {
     skin_tone_support_version: '1.0'
   },
   '🦻': {
-    name: 'ear with hearing aid',
+    name: 'ear-with-hearing-aid',
     group: 'People & Body',
     version: '12.0',
     skin_tone_support: true,
@@ -1203,7 +1203,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🫀': {
-    name: 'anatomical heart',
+    name: 'anatomical-heart',
     group: 'People & Body',
     version: '13.0',
     skin_tone_support: false
@@ -1286,7 +1286,7 @@ export const emojis = {
     skin_tone_support_version: '5.0'
   },
   '👱': {
-    name: 'person blond hair',
+    name: 'person-blond-hair',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
@@ -1300,35 +1300,35 @@ export const emojis = {
     skin_tone_support_version: '1.0'
   },
   '🧔': {
-    name: 'person beard',
+    name: 'person-beard',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: true,
     skin_tone_support_version: '5.0'
   },
   '👨‍🦰': {
-    name: 'man red hair',
+    name: 'man-red-hair',
     group: 'People & Body',
     version: '11.0',
     skin_tone_support: true,
     skin_tone_support_version: '11.0'
   },
   '👨‍🦱': {
-    name: 'man curly hair',
+    name: 'man-curly-hair',
     group: 'People & Body',
     version: '11.0',
     skin_tone_support: true,
     skin_tone_support_version: '11.0'
   },
   '👨‍🦳': {
-    name: 'man white hair',
+    name: 'man-white-hair',
     group: 'People & Body',
     version: '11.0',
     skin_tone_support: true,
     skin_tone_support_version: '11.0'
   },
   '👨‍🦲': {
-    name: 'man bald',
+    name: 'man-bald',
     group: 'People & Body',
     version: '11.0',
     skin_tone_support: true,
@@ -1342,322 +1342,322 @@ export const emojis = {
     skin_tone_support_version: '1.0'
   },
   '👩‍🦰': {
-    name: 'woman red hair',
+    name: 'woman-red-hair',
     group: 'People & Body',
     version: '11.0',
     skin_tone_support: true,
     skin_tone_support_version: '11.0'
   },
   '🧑‍🦰': {
-    name: 'person red hair',
+    name: 'person-red-hair',
     group: 'People & Body',
     version: '12.1',
     skin_tone_support: true,
     skin_tone_support_version: '12.1'
   },
   '👩‍🦱': {
-    name: 'woman curly hair',
+    name: 'woman-curly-hair',
     group: 'People & Body',
     version: '11.0',
     skin_tone_support: true,
     skin_tone_support_version: '11.0'
   },
   '🧑‍🦱': {
-    name: 'person curly hair',
+    name: 'person-curly-hair',
     group: 'People & Body',
     version: '12.1',
     skin_tone_support: true,
     skin_tone_support_version: '12.1'
   },
   '👩‍🦳': {
-    name: 'woman white hair',
+    name: 'woman-white-hair',
     group: 'People & Body',
     version: '11.0',
     skin_tone_support: true,
     skin_tone_support_version: '11.0'
   },
   '🧑‍🦳': {
-    name: 'person white hair',
+    name: 'person-white-hair',
     group: 'People & Body',
     version: '12.1',
     skin_tone_support: true,
     skin_tone_support_version: '12.1'
   },
   '👩‍🦲': {
-    name: 'woman bald',
+    name: 'woman-bald',
     group: 'People & Body',
     version: '11.0',
     skin_tone_support: true,
     skin_tone_support_version: '11.0'
   },
   '🧑‍🦲': {
-    name: 'person bald',
+    name: 'person-bald',
     group: 'People & Body',
     version: '12.1',
     skin_tone_support: true,
     skin_tone_support_version: '12.1'
   },
   '👱‍♀️': {
-    name: 'woman blond hair',
+    name: 'woman-blond-hair',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '👱‍♂️': {
-    name: 'man blond hair',
+    name: 'man-blond-hair',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🧓': {
-    name: 'older person',
+    name: 'older-person',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: true,
     skin_tone_support_version: '5.0'
   },
   '👴': {
-    name: 'old man',
+    name: 'old-man',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '👵': {
-    name: 'old woman',
+    name: 'old-woman',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🙍': {
-    name: 'person frowning',
+    name: 'person-frowning',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🙍‍♂️': {
-    name: 'man frowning',
+    name: 'man-frowning',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🙍‍♀️': {
-    name: 'woman frowning',
+    name: 'woman-frowning',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🙎': {
-    name: 'person pouting',
+    name: 'person-pouting',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🙎‍♂️': {
-    name: 'man pouting',
+    name: 'man-pouting',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🙎‍♀️': {
-    name: 'woman pouting',
+    name: 'woman-pouting',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🙅': {
-    name: 'person gesturing NO',
+    name: 'person-gesturing-NO',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🙅‍♂️': {
-    name: 'man gesturing NO',
+    name: 'man-gesturing-NO',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🙅‍♀️': {
-    name: 'woman gesturing NO',
+    name: 'woman-gesturing-NO',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🙆': {
-    name: 'person gesturing OK',
+    name: 'person-gesturing-OK',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🙆‍♂️': {
-    name: 'man gesturing OK',
+    name: 'man-gesturing-OK',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🙆‍♀️': {
-    name: 'woman gesturing OK',
+    name: 'woman-gesturing-OK',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '💁': {
-    name: 'person tipping hand',
+    name: 'person-tipping-hand',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '💁‍♂️': {
-    name: 'man tipping hand',
+    name: 'man-tipping-hand',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '💁‍♀️': {
-    name: 'woman tipping hand',
+    name: 'woman-tipping-hand',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🙋': {
-    name: 'person raising hand',
+    name: 'person-raising-hand',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🙋‍♂️': {
-    name: 'man raising hand',
+    name: 'man-raising-hand',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🙋‍♀️': {
-    name: 'woman raising hand',
+    name: 'woman-raising-hand',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🧏': {
-    name: 'deaf person',
+    name: 'deaf-person',
     group: 'People & Body',
     version: '12.0',
     skin_tone_support: true,
     skin_tone_support_version: '12.0'
   },
   '🧏‍♂️': {
-    name: 'deaf man',
+    name: 'deaf-man',
     group: 'People & Body',
     version: '12.0',
     skin_tone_support: true,
     skin_tone_support_version: '12.0'
   },
   '🧏‍♀️': {
-    name: 'deaf woman',
+    name: 'deaf-woman',
     group: 'People & Body',
     version: '12.0',
     skin_tone_support: true,
     skin_tone_support_version: '12.0'
   },
   '🙇': {
-    name: 'person bowing',
+    name: 'person-bowing',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🙇‍♂️': {
-    name: 'man bowing',
+    name: 'man-bowing',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🙇‍♀️': {
-    name: 'woman bowing',
+    name: 'woman-bowing',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🤦': {
-    name: 'person facepalming',
+    name: 'person-facepalming',
     group: 'People & Body',
     version: '3.0',
     skin_tone_support: true,
     skin_tone_support_version: '3.0'
   },
   '🤦‍♂️': {
-    name: 'man facepalming',
+    name: 'man-facepalming',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🤦‍♀️': {
-    name: 'woman facepalming',
+    name: 'woman-facepalming',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🤷': {
-    name: 'person shrugging',
+    name: 'person-shrugging',
     group: 'People & Body',
     version: '3.0',
     skin_tone_support: true,
     skin_tone_support_version: '3.0'
   },
   '🤷‍♂️': {
-    name: 'man shrugging',
+    name: 'man-shrugging',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🤷‍♀️': {
-    name: 'woman shrugging',
+    name: 'woman-shrugging',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🧑‍⚕️': {
-    name: 'health worker',
+    name: 'health-worker',
     group: 'People & Body',
     version: '12.1',
     skin_tone_support: true,
     skin_tone_support_version: '12.1'
   },
   '👨‍⚕️': {
-    name: 'man health worker',
+    name: 'man-health-worker',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '👩‍⚕️': {
-    name: 'woman health worker',
+    name: 'woman-health-worker',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
@@ -1671,14 +1671,14 @@ export const emojis = {
     skin_tone_support_version: '12.1'
   },
   '👨‍🎓': {
-    name: 'man student',
+    name: 'man-student',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '👩‍🎓': {
-    name: 'woman student',
+    name: 'woman-student',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
@@ -1692,14 +1692,14 @@ export const emojis = {
     skin_tone_support_version: '12.1'
   },
   '👨‍🏫': {
-    name: 'man teacher',
+    name: 'man-teacher',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '👩‍🏫': {
-    name: 'woman teacher',
+    name: 'woman-teacher',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
@@ -1713,14 +1713,14 @@ export const emojis = {
     skin_tone_support_version: '12.1'
   },
   '👨‍⚖️': {
-    name: 'man judge',
+    name: 'man-judge',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '👩‍⚖️': {
-    name: 'woman judge',
+    name: 'woman-judge',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
@@ -1734,14 +1734,14 @@ export const emojis = {
     skin_tone_support_version: '12.1'
   },
   '👨‍🌾': {
-    name: 'man farmer',
+    name: 'man-farmer',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '👩‍🌾': {
-    name: 'woman farmer',
+    name: 'woman-farmer',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
@@ -1755,14 +1755,14 @@ export const emojis = {
     skin_tone_support_version: '12.1'
   },
   '👨‍🍳': {
-    name: 'man cook',
+    name: 'man-cook',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '👩‍🍳': {
-    name: 'woman cook',
+    name: 'woman-cook',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
@@ -1776,56 +1776,56 @@ export const emojis = {
     skin_tone_support_version: '12.1'
   },
   '👨‍🔧': {
-    name: 'man mechanic',
+    name: 'man-mechanic',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '👩‍🔧': {
-    name: 'woman mechanic',
+    name: 'woman-mechanic',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🧑‍🏭': {
-    name: 'factory worker',
+    name: 'factory-worker',
     group: 'People & Body',
     version: '12.1',
     skin_tone_support: true,
     skin_tone_support_version: '12.1'
   },
   '👨‍🏭': {
-    name: 'man factory worker',
+    name: 'man-factory-worker',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '👩‍🏭': {
-    name: 'woman factory worker',
+    name: 'woman-factory-worker',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🧑‍💼': {
-    name: 'office worker',
+    name: 'office-worker',
     group: 'People & Body',
     version: '12.1',
     skin_tone_support: true,
     skin_tone_support_version: '12.1'
   },
   '👨‍💼': {
-    name: 'man office worker',
+    name: 'man-office-worker',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '👩‍💼': {
-    name: 'woman office worker',
+    name: 'woman-office-worker',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
@@ -1839,14 +1839,14 @@ export const emojis = {
     skin_tone_support_version: '12.1'
   },
   '👨‍🔬': {
-    name: 'man scientist',
+    name: 'man-scientist',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '👩‍🔬': {
-    name: 'woman scientist',
+    name: 'woman-scientist',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
@@ -1860,14 +1860,14 @@ export const emojis = {
     skin_tone_support_version: '12.1'
   },
   '👨‍💻': {
-    name: 'man technologist',
+    name: 'man-technologist',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '👩‍💻': {
-    name: 'woman technologist',
+    name: 'woman-technologist',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
@@ -1881,14 +1881,14 @@ export const emojis = {
     skin_tone_support_version: '12.1'
   },
   '👨‍🎤': {
-    name: 'man singer',
+    name: 'man-singer',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '👩‍🎤': {
-    name: 'woman singer',
+    name: 'woman-singer',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
@@ -1902,14 +1902,14 @@ export const emojis = {
     skin_tone_support_version: '12.1'
   },
   '👨‍🎨': {
-    name: 'man artist',
+    name: 'man-artist',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '👩‍🎨': {
-    name: 'woman artist',
+    name: 'woman-artist',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
@@ -1923,14 +1923,14 @@ export const emojis = {
     skin_tone_support_version: '12.1'
   },
   '👨‍✈️': {
-    name: 'man pilot',
+    name: 'man-pilot',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '👩‍✈️': {
-    name: 'woman pilot',
+    name: 'woman-pilot',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
@@ -1944,14 +1944,14 @@ export const emojis = {
     skin_tone_support_version: '12.1'
   },
   '👨‍🚀': {
-    name: 'man astronaut',
+    name: 'man-astronaut',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '👩‍🚀': {
-    name: 'woman astronaut',
+    name: 'woman-astronaut',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
@@ -1965,35 +1965,35 @@ export const emojis = {
     skin_tone_support_version: '12.1'
   },
   '👨‍🚒': {
-    name: 'man firefighter',
+    name: 'man-firefighter',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '👩‍🚒': {
-    name: 'woman firefighter',
+    name: 'woman-firefighter',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '👮': {
-    name: 'police officer',
+    name: 'police-officer',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '👮‍♂️': {
-    name: 'man police officer',
+    name: 'man-police-officer',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '👮‍♀️': {
-    name: 'woman police officer',
+    name: 'woman-police-officer',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
@@ -2007,14 +2007,14 @@ export const emojis = {
     skin_tone_support_version: '2.0'
   },
   '🕵️‍♂️': {
-    name: 'man detective',
+    name: 'man-detective',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🕵️‍♀️': {
-    name: 'woman detective',
+    name: 'woman-detective',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
@@ -2028,14 +2028,14 @@ export const emojis = {
     skin_tone_support_version: '1.0'
   },
   '💂‍♂️': {
-    name: 'man guard',
+    name: 'man-guard',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '💂‍♀️': {
-    name: 'woman guard',
+    name: 'woman-guard',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
@@ -2049,21 +2049,21 @@ export const emojis = {
     skin_tone_support_version: '13.0'
   },
   '👷': {
-    name: 'construction worker',
+    name: 'construction-worker',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '👷‍♂️': {
-    name: 'man construction worker',
+    name: 'man-construction-worker',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '👷‍♀️': {
-    name: 'woman construction worker',
+    name: 'woman-construction-worker',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
@@ -2084,84 +2084,84 @@ export const emojis = {
     skin_tone_support_version: '1.0'
   },
   '👳': {
-    name: 'person wearing turban',
+    name: 'person-wearing-turban',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '👳‍♂️': {
-    name: 'man wearing turban',
+    name: 'man-wearing-turban',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '👳‍♀️': {
-    name: 'woman wearing turban',
+    name: 'woman-wearing-turban',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '👲': {
-    name: 'person with skullcap',
+    name: 'person-with-skullcap',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🧕': {
-    name: 'woman with headscarf',
+    name: 'woman-with-headscarf',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: true,
     skin_tone_support_version: '5.0'
   },
   '🤵': {
-    name: 'person in tuxedo',
+    name: 'person-in-tuxedo',
     group: 'People & Body',
     version: '3.0',
     skin_tone_support: true,
     skin_tone_support_version: '3.0'
   },
   '🤵‍♂️': {
-    name: 'man in tuxedo',
+    name: 'man-in-tuxedo',
     group: 'People & Body',
     version: '13.0',
     skin_tone_support: true,
     skin_tone_support_version: '13.0'
   },
   '🤵‍♀️': {
-    name: 'woman in tuxedo',
+    name: 'woman-in-tuxedo',
     group: 'People & Body',
     version: '13.0',
     skin_tone_support: true,
     skin_tone_support_version: '13.0'
   },
   '👰': {
-    name: 'person with veil',
+    name: 'person-with-veil',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '👰‍♂️': {
-    name: 'man with veil',
+    name: 'man-with-veil',
     group: 'People & Body',
     version: '13.0',
     skin_tone_support: true,
     skin_tone_support_version: '13.0'
   },
   '👰‍♀️': {
-    name: 'woman with veil',
+    name: 'woman-with-veil',
     group: 'People & Body',
     version: '13.0',
     skin_tone_support: true,
     skin_tone_support_version: '13.0'
   },
   '🤰': {
-    name: 'pregnant woman',
+    name: 'pregnant-woman',
     group: 'People & Body',
     version: '3.0',
     skin_tone_support: true,
@@ -2175,49 +2175,49 @@ export const emojis = {
     skin_tone_support_version: '5.0'
   },
   '👩‍🍼': {
-    name: 'woman feeding baby',
+    name: 'woman-feeding-baby',
     group: 'People & Body',
     version: '13.0',
     skin_tone_support: true,
     skin_tone_support_version: '13.0'
   },
   '👨‍🍼': {
-    name: 'man feeding baby',
+    name: 'man-feeding-baby',
     group: 'People & Body',
     version: '13.0',
     skin_tone_support: true,
     skin_tone_support_version: '13.0'
   },
   '🧑‍🍼': {
-    name: 'person feeding baby',
+    name: 'person-feeding-baby',
     group: 'People & Body',
     version: '13.0',
     skin_tone_support: true,
     skin_tone_support_version: '13.0'
   },
   '👼': {
-    name: 'baby angel',
+    name: 'baby-angel',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🎅': {
-    name: 'Santa Claus',
+    name: 'Santa-Claus',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🤶': {
-    name: 'Mrs. Claus',
+    name: 'Mrs.-Claus',
     group: 'People & Body',
     version: '3.0',
     skin_tone_support: true,
     skin_tone_support_version: '3.0'
   },
   '🧑‍🎄': {
-    name: 'mx claus',
+    name: 'mx-claus',
     group: 'People & Body',
     version: '13.0',
     skin_tone_support: true,
@@ -2231,14 +2231,14 @@ export const emojis = {
     skin_tone_support_version: '11.0'
   },
   '🦸‍♂️': {
-    name: 'man superhero',
+    name: 'man-superhero',
     group: 'People & Body',
     version: '11.0',
     skin_tone_support: true,
     skin_tone_support_version: '11.0'
   },
   '🦸‍♀️': {
-    name: 'woman superhero',
+    name: 'woman-superhero',
     group: 'People & Body',
     version: '11.0',
     skin_tone_support: true,
@@ -2252,14 +2252,14 @@ export const emojis = {
     skin_tone_support_version: '11.0'
   },
   '🦹‍♂️': {
-    name: 'man supervillain',
+    name: 'man-supervillain',
     group: 'People & Body',
     version: '11.0',
     skin_tone_support: true,
     skin_tone_support_version: '11.0'
   },
   '🦹‍♀️': {
-    name: 'woman supervillain',
+    name: 'woman-supervillain',
     group: 'People & Body',
     version: '11.0',
     skin_tone_support: true,
@@ -2273,14 +2273,14 @@ export const emojis = {
     skin_tone_support_version: '5.0'
   },
   '🧙‍♂️': {
-    name: 'man mage',
+    name: 'man-mage',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: true,
     skin_tone_support_version: '5.0'
   },
   '🧙‍♀️': {
-    name: 'woman mage',
+    name: 'woman-mage',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: true,
@@ -2294,14 +2294,14 @@ export const emojis = {
     skin_tone_support_version: '5.0'
   },
   '🧚‍♂️': {
-    name: 'man fairy',
+    name: 'man-fairy',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: true,
     skin_tone_support_version: '5.0'
   },
   '🧚‍♀️': {
-    name: 'woman fairy',
+    name: 'woman-fairy',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: true,
@@ -2315,14 +2315,14 @@ export const emojis = {
     skin_tone_support_version: '5.0'
   },
   '🧛‍♂️': {
-    name: 'man vampire',
+    name: 'man-vampire',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: true,
     skin_tone_support_version: '5.0'
   },
   '🧛‍♀️': {
-    name: 'woman vampire',
+    name: 'woman-vampire',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: true,
@@ -2357,14 +2357,14 @@ export const emojis = {
     skin_tone_support_version: '5.0'
   },
   '🧝‍♂️': {
-    name: 'man elf',
+    name: 'man-elf',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: true,
     skin_tone_support_version: '5.0'
   },
   '🧝‍♀️': {
-    name: 'woman elf',
+    name: 'woman-elf',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: true,
@@ -2377,13 +2377,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '🧞‍♂️': {
-    name: 'man genie',
+    name: 'man-genie',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: false
   },
   '🧞‍♀️': {
-    name: 'woman genie',
+    name: 'woman-genie',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: false
@@ -2395,295 +2395,295 @@ export const emojis = {
     skin_tone_support: false
   },
   '🧟‍♂️': {
-    name: 'man zombie',
+    name: 'man-zombie',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: false
   },
   '🧟‍♀️': {
-    name: 'woman zombie',
+    name: 'woman-zombie',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: false
   },
   '💆': {
-    name: 'person getting massage',
+    name: 'person-getting-massage',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '💆‍♂️': {
-    name: 'man getting massage',
+    name: 'man-getting-massage',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '💆‍♀️': {
-    name: 'woman getting massage',
+    name: 'woman-getting-massage',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '💇': {
-    name: 'person getting haircut',
+    name: 'person-getting-haircut',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '💇‍♂️': {
-    name: 'man getting haircut',
+    name: 'man-getting-haircut',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '💇‍♀️': {
-    name: 'woman getting haircut',
+    name: 'woman-getting-haircut',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🚶': {
-    name: 'person walking',
+    name: 'person-walking',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🚶‍♂️': {
-    name: 'man walking',
+    name: 'man-walking',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🚶‍♀️': {
-    name: 'woman walking',
+    name: 'woman-walking',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🧍': {
-    name: 'person standing',
+    name: 'person-standing',
     group: 'People & Body',
     version: '12.0',
     skin_tone_support: true,
     skin_tone_support_version: '12.0'
   },
   '🧍‍♂️': {
-    name: 'man standing',
+    name: 'man-standing',
     group: 'People & Body',
     version: '12.0',
     skin_tone_support: true,
     skin_tone_support_version: '12.0'
   },
   '🧍‍♀️': {
-    name: 'woman standing',
+    name: 'woman-standing',
     group: 'People & Body',
     version: '12.0',
     skin_tone_support: true,
     skin_tone_support_version: '12.0'
   },
   '🧎': {
-    name: 'person kneeling',
+    name: 'person-kneeling',
     group: 'People & Body',
     version: '12.0',
     skin_tone_support: true,
     skin_tone_support_version: '12.0'
   },
   '🧎‍♂️': {
-    name: 'man kneeling',
+    name: 'man-kneeling',
     group: 'People & Body',
     version: '12.0',
     skin_tone_support: true,
     skin_tone_support_version: '12.0'
   },
   '🧎‍♀️': {
-    name: 'woman kneeling',
+    name: 'woman-kneeling',
     group: 'People & Body',
     version: '12.0',
     skin_tone_support: true,
     skin_tone_support_version: '12.0'
   },
   '🧑‍🦯': {
-    name: 'person with white cane',
+    name: 'person-with-white-cane',
     group: 'People & Body',
     version: '12.1',
     skin_tone_support: true,
     skin_tone_support_version: '12.1'
   },
   '👨‍🦯': {
-    name: 'man with white cane',
+    name: 'man-with-white-cane',
     group: 'People & Body',
     version: '12.0',
     skin_tone_support: true,
     skin_tone_support_version: '12.0'
   },
   '👩‍🦯': {
-    name: 'woman with white cane',
+    name: 'woman-with-white-cane',
     group: 'People & Body',
     version: '12.0',
     skin_tone_support: true,
     skin_tone_support_version: '12.0'
   },
   '🧑‍🦼': {
-    name: 'person in motorized wheelchair',
+    name: 'person-in-motorized-wheelchair',
     group: 'People & Body',
     version: '12.1',
     skin_tone_support: true,
     skin_tone_support_version: '12.1'
   },
   '👨‍🦼': {
-    name: 'man in motorized wheelchair',
+    name: 'man-in-motorized-wheelchair',
     group: 'People & Body',
     version: '12.0',
     skin_tone_support: true,
     skin_tone_support_version: '12.0'
   },
   '👩‍🦼': {
-    name: 'woman in motorized wheelchair',
+    name: 'woman-in-motorized-wheelchair',
     group: 'People & Body',
     version: '12.0',
     skin_tone_support: true,
     skin_tone_support_version: '12.0'
   },
   '🧑‍🦽': {
-    name: 'person in manual wheelchair',
+    name: 'person-in-manual-wheelchair',
     group: 'People & Body',
     version: '12.1',
     skin_tone_support: true,
     skin_tone_support_version: '12.1'
   },
   '👨‍🦽': {
-    name: 'man in manual wheelchair',
+    name: 'man-in-manual-wheelchair',
     group: 'People & Body',
     version: '12.0',
     skin_tone_support: true,
     skin_tone_support_version: '12.0'
   },
   '👩‍🦽': {
-    name: 'woman in manual wheelchair',
+    name: 'woman-in-manual-wheelchair',
     group: 'People & Body',
     version: '12.0',
     skin_tone_support: true,
     skin_tone_support_version: '12.0'
   },
   '🏃': {
-    name: 'person running',
+    name: 'person-running',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🏃‍♂️': {
-    name: 'man running',
+    name: 'man-running',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🏃‍♀️': {
-    name: 'woman running',
+    name: 'woman-running',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '💃': {
-    name: 'woman dancing',
+    name: 'woman-dancing',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🕺': {
-    name: 'man dancing',
+    name: 'man-dancing',
     group: 'People & Body',
     version: '3.0',
     skin_tone_support: true,
     skin_tone_support_version: '3.0'
   },
   '🕴️': {
-    name: 'person in suit levitating',
+    name: 'person-in-suit-levitating',
     group: 'People & Body',
     version: '0.7',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '👯': {
-    name: 'people with bunny ears',
+    name: 'people-with-bunny-ears',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: false
   },
   '👯‍♂️': {
-    name: 'men with bunny ears',
+    name: 'men-with-bunny-ears',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: false
   },
   '👯‍♀️': {
-    name: 'women with bunny ears',
+    name: 'women-with-bunny-ears',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: false
   },
   '🧖': {
-    name: 'person in steamy room',
+    name: 'person-in-steamy-room',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: true,
     skin_tone_support_version: '5.0'
   },
   '🧖‍♂️': {
-    name: 'man in steamy room',
+    name: 'man-in-steamy-room',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: true,
     skin_tone_support_version: '5.0'
   },
   '🧖‍♀️': {
-    name: 'woman in steamy room',
+    name: 'woman-in-steamy-room',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: true,
     skin_tone_support_version: '5.0'
   },
   '🧗': {
-    name: 'person climbing',
+    name: 'person-climbing',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: true,
     skin_tone_support_version: '5.0'
   },
   '🧗‍♂️': {
-    name: 'man climbing',
+    name: 'man-climbing',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: true,
     skin_tone_support_version: '5.0'
   },
   '🧗‍♀️': {
-    name: 'woman climbing',
+    name: 'woman-climbing',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: true,
     skin_tone_support_version: '5.0'
   },
   '🤺': {
-    name: 'person fencing',
+    name: 'person-fencing',
     group: 'People & Body',
     version: '3.0',
     skin_tone_support: false
   },
   '🏇': {
-    name: 'horse racing',
+    name: 'horse-racing',
     group: 'People & Body',
     version: '1.0',
     skin_tone_support: true,
@@ -2703,333 +2703,333 @@ export const emojis = {
     skin_tone_support_version: '1.0'
   },
   '🏌️': {
-    name: 'person golfing',
+    name: 'person-golfing',
     group: 'People & Body',
     version: '0.7',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🏌️‍♂️': {
-    name: 'man golfing',
+    name: 'man-golfing',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🏌️‍♀️': {
-    name: 'woman golfing',
+    name: 'woman-golfing',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🏄': {
-    name: 'person surfing',
+    name: 'person-surfing',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🏄‍♂️': {
-    name: 'man surfing',
+    name: 'man-surfing',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🏄‍♀️': {
-    name: 'woman surfing',
+    name: 'woman-surfing',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🚣': {
-    name: 'person rowing boat',
+    name: 'person-rowing-boat',
     group: 'People & Body',
     version: '1.0',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🚣‍♂️': {
-    name: 'man rowing boat',
+    name: 'man-rowing-boat',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🚣‍♀️': {
-    name: 'woman rowing boat',
+    name: 'woman-rowing-boat',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🏊': {
-    name: 'person swimming',
+    name: 'person-swimming',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🏊‍♂️': {
-    name: 'man swimming',
+    name: 'man-swimming',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🏊‍♀️': {
-    name: 'woman swimming',
+    name: 'woman-swimming',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '⛹️': {
-    name: 'person bouncing ball',
+    name: 'person-bouncing-ball',
     group: 'People & Body',
     version: '0.7',
     skin_tone_support: true,
     skin_tone_support_version: '2.0'
   },
   '⛹️‍♂️': {
-    name: 'man bouncing ball',
+    name: 'man-bouncing-ball',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '⛹️‍♀️': {
-    name: 'woman bouncing ball',
+    name: 'woman-bouncing-ball',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🏋️': {
-    name: 'person lifting weights',
+    name: 'person-lifting-weights',
     group: 'People & Body',
     version: '0.7',
     skin_tone_support: true,
     skin_tone_support_version: '2.0'
   },
   '🏋️‍♂️': {
-    name: 'man lifting weights',
+    name: 'man-lifting-weights',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🏋️‍♀️': {
-    name: 'woman lifting weights',
+    name: 'woman-lifting-weights',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🚴': {
-    name: 'person biking',
+    name: 'person-biking',
     group: 'People & Body',
     version: '1.0',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🚴‍♂️': {
-    name: 'man biking',
+    name: 'man-biking',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🚴‍♀️': {
-    name: 'woman biking',
+    name: 'woman-biking',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🚵': {
-    name: 'person mountain biking',
+    name: 'person-mountain-biking',
     group: 'People & Body',
     version: '1.0',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🚵‍♂️': {
-    name: 'man mountain biking',
+    name: 'man-mountain-biking',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🚵‍♀️': {
-    name: 'woman mountain biking',
+    name: 'woman-mountain-biking',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🤸': {
-    name: 'person cartwheeling',
+    name: 'person-cartwheeling',
     group: 'People & Body',
     version: '3.0',
     skin_tone_support: true,
     skin_tone_support_version: '3.0'
   },
   '🤸‍♂️': {
-    name: 'man cartwheeling',
+    name: 'man-cartwheeling',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🤸‍♀️': {
-    name: 'woman cartwheeling',
+    name: 'woman-cartwheeling',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🤼': {
-    name: 'people wrestling',
+    name: 'people-wrestling',
     group: 'People & Body',
     version: '3.0',
     skin_tone_support: false
   },
   '🤼‍♂️': {
-    name: 'men wrestling',
+    name: 'men-wrestling',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: false
   },
   '🤼‍♀️': {
-    name: 'women wrestling',
+    name: 'women-wrestling',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: false
   },
   '🤽': {
-    name: 'person playing water polo',
+    name: 'person-playing-water-polo',
     group: 'People & Body',
     version: '3.0',
     skin_tone_support: true,
     skin_tone_support_version: '3.0'
   },
   '🤽‍♂️': {
-    name: 'man playing water polo',
+    name: 'man-playing-water-polo',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🤽‍♀️': {
-    name: 'woman playing water polo',
+    name: 'woman-playing-water-polo',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🤾': {
-    name: 'person playing handball',
+    name: 'person-playing-handball',
     group: 'People & Body',
     version: '3.0',
     skin_tone_support: true,
     skin_tone_support_version: '3.0'
   },
   '🤾‍♂️': {
-    name: 'man playing handball',
+    name: 'man-playing-handball',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🤾‍♀️': {
-    name: 'woman playing handball',
+    name: 'woman-playing-handball',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🤹': {
-    name: 'person juggling',
+    name: 'person-juggling',
     group: 'People & Body',
     version: '3.0',
     skin_tone_support: true,
     skin_tone_support_version: '3.0'
   },
   '🤹‍♂️': {
-    name: 'man juggling',
+    name: 'man-juggling',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🤹‍♀️': {
-    name: 'woman juggling',
+    name: 'woman-juggling',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🧘': {
-    name: 'person in lotus position',
+    name: 'person-in-lotus-position',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: true,
     skin_tone_support_version: '5.0'
   },
   '🧘‍♂️': {
-    name: 'man in lotus position',
+    name: 'man-in-lotus-position',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: true,
     skin_tone_support_version: '5.0'
   },
   '🧘‍♀️': {
-    name: 'woman in lotus position',
+    name: 'woman-in-lotus-position',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: true,
     skin_tone_support_version: '5.0'
   },
   '🛀': {
-    name: 'person taking bath',
+    name: 'person-taking-bath',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '1.0'
   },
   '🛌': {
-    name: 'person in bed',
+    name: 'person-in-bed',
     group: 'People & Body',
     version: '1.0',
     skin_tone_support: true,
     skin_tone_support_version: '4.0'
   },
   '🧑‍🤝‍🧑': {
-    name: 'people holding hands',
+    name: 'people-holding-hands',
     group: 'People & Body',
     version: '12.0',
     skin_tone_support: true,
     skin_tone_support_version: '12.0'
   },
   '👭': {
-    name: 'women holding hands',
+    name: 'women-holding-hands',
     group: 'People & Body',
     version: '1.0',
     skin_tone_support: true,
     skin_tone_support_version: '12.0'
   },
   '👫': {
-    name: 'woman and man holding hands',
+    name: 'woman-and-man-holding-hands',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: true,
     skin_tone_support_version: '12.0'
   },
   '👬': {
-    name: 'men holding hands',
+    name: 'men-holding-hands',
     group: 'People & Body',
     version: '1.0',
     skin_tone_support: true,
@@ -3042,43 +3042,43 @@ export const emojis = {
     skin_tone_support: false
   },
   '👩‍❤️‍💋‍👨': {
-    name: 'kiss woman, man',
+    name: 'kiss-woman,-man',
     group: 'People & Body',
     version: '2.0',
     skin_tone_support: false
   },
   '👨‍❤️‍💋‍👨': {
-    name: 'kiss man, man',
+    name: 'kiss-man,-man',
     group: 'People & Body',
     version: '2.0',
     skin_tone_support: false
   },
   '👩‍❤️‍💋‍👩': {
-    name: 'kiss woman, woman',
+    name: 'kiss-woman,-woman',
     group: 'People & Body',
     version: '2.0',
     skin_tone_support: false
   },
   '💑': {
-    name: 'couple with heart',
+    name: 'couple-with-heart',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: false
   },
   '👩‍❤️‍👨': {
-    name: 'couple with heart woman, man',
+    name: 'couple-with-heart-woman,-man',
     group: 'People & Body',
     version: '2.0',
     skin_tone_support: false
   },
   '👨‍❤️‍👨': {
-    name: 'couple with heart man, man',
+    name: 'couple-with-heart-man,-man',
     group: 'People & Body',
     version: '2.0',
     skin_tone_support: false
   },
   '👩‍❤️‍👩': {
-    name: 'couple with heart woman, woman',
+    name: 'couple-with-heart-woman,-woman',
     group: 'People & Body',
     version: '2.0',
     skin_tone_support: false
@@ -3090,175 +3090,175 @@ export const emojis = {
     skin_tone_support: false
   },
   '👨‍👩‍👦': {
-    name: 'family man, woman, boy',
+    name: 'family-man,-woman,-boy',
     group: 'People & Body',
     version: '2.0',
     skin_tone_support: false
   },
   '👨‍👩‍👧': {
-    name: 'family man, woman, girl',
+    name: 'family-man,-woman,-girl',
     group: 'People & Body',
     version: '2.0',
     skin_tone_support: false
   },
   '👨‍👩‍👧‍👦': {
-    name: 'family man, woman, girl, boy',
+    name: 'family-man,-woman,-girl,-boy',
     group: 'People & Body',
     version: '2.0',
     skin_tone_support: false
   },
   '👨‍👩‍👦‍👦': {
-    name: 'family man, woman, boy, boy',
+    name: 'family-man,-woman,-boy,-boy',
     group: 'People & Body',
     version: '2.0',
     skin_tone_support: false
   },
   '👨‍👩‍👧‍👧': {
-    name: 'family man, woman, girl, girl',
+    name: 'family-man,-woman,-girl,-girl',
     group: 'People & Body',
     version: '2.0',
     skin_tone_support: false
   },
   '👨‍👨‍👦': {
-    name: 'family man, man, boy',
+    name: 'family-man,-man,-boy',
     group: 'People & Body',
     version: '2.0',
     skin_tone_support: false
   },
   '👨‍👨‍👧': {
-    name: 'family man, man, girl',
+    name: 'family-man,-man,-girl',
     group: 'People & Body',
     version: '2.0',
     skin_tone_support: false
   },
   '👨‍👨‍👧‍👦': {
-    name: 'family man, man, girl, boy',
+    name: 'family-man,-man,-girl,-boy',
     group: 'People & Body',
     version: '2.0',
     skin_tone_support: false
   },
   '👨‍👨‍👦‍👦': {
-    name: 'family man, man, boy, boy',
+    name: 'family-man,-man,-boy,-boy',
     group: 'People & Body',
     version: '2.0',
     skin_tone_support: false
   },
   '👨‍👨‍👧‍👧': {
-    name: 'family man, man, girl, girl',
+    name: 'family-man,-man,-girl,-girl',
     group: 'People & Body',
     version: '2.0',
     skin_tone_support: false
   },
   '👩‍👩‍👦': {
-    name: 'family woman, woman, boy',
+    name: 'family-woman,-woman,-boy',
     group: 'People & Body',
     version: '2.0',
     skin_tone_support: false
   },
   '👩‍👩‍👧': {
-    name: 'family woman, woman, girl',
+    name: 'family-woman,-woman,-girl',
     group: 'People & Body',
     version: '2.0',
     skin_tone_support: false
   },
   '👩‍👩‍👧‍👦': {
-    name: 'family woman, woman, girl, boy',
+    name: 'family-woman,-woman,-girl,-boy',
     group: 'People & Body',
     version: '2.0',
     skin_tone_support: false
   },
   '👩‍👩‍👦‍👦': {
-    name: 'family woman, woman, boy, boy',
+    name: 'family-woman,-woman,-boy,-boy',
     group: 'People & Body',
     version: '2.0',
     skin_tone_support: false
   },
   '👩‍👩‍👧‍👧': {
-    name: 'family woman, woman, girl, girl',
+    name: 'family-woman,-woman,-girl,-girl',
     group: 'People & Body',
     version: '2.0',
     skin_tone_support: false
   },
   '👨‍👦': {
-    name: 'family man, boy',
+    name: 'family-man,-boy',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: false
   },
   '👨‍👦‍👦': {
-    name: 'family man, boy, boy',
+    name: 'family-man,-boy,-boy',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: false
   },
   '👨‍👧': {
-    name: 'family man, girl',
+    name: 'family-man,-girl',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: false
   },
   '👨‍👧‍👦': {
-    name: 'family man, girl, boy',
+    name: 'family-man,-girl,-boy',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: false
   },
   '👨‍👧‍👧': {
-    name: 'family man, girl, girl',
+    name: 'family-man,-girl,-girl',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: false
   },
   '👩‍👦': {
-    name: 'family woman, boy',
+    name: 'family-woman,-boy',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: false
   },
   '👩‍👦‍👦': {
-    name: 'family woman, boy, boy',
+    name: 'family-woman,-boy,-boy',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: false
   },
   '👩‍👧': {
-    name: 'family woman, girl',
+    name: 'family-woman,-girl',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: false
   },
   '👩‍👧‍👦': {
-    name: 'family woman, girl, boy',
+    name: 'family-woman,-girl,-boy',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: false
   },
   '👩‍👧‍👧': {
-    name: 'family woman, girl, girl',
+    name: 'family-woman,-girl,-girl',
     group: 'People & Body',
     version: '4.0',
     skin_tone_support: false
   },
   '🗣️': {
-    name: 'speaking head',
+    name: 'speaking-head',
     group: 'People & Body',
     version: '0.7',
     skin_tone_support: false
   },
   '👤': {
-    name: 'bust in silhouette',
+    name: 'bust-in-silhouette',
     group: 'People & Body',
     version: '0.6',
     skin_tone_support: false
   },
   '👥': {
-    name: 'busts in silhouette',
+    name: 'busts-in-silhouette',
     group: 'People & Body',
     version: '1.0',
     skin_tone_support: false
   },
   '🫂': {
-    name: 'people hugging',
+    name: 'people-hugging',
     group: 'People & Body',
     version: '13.0',
     skin_tone_support: false
@@ -3270,7 +3270,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🐵': {
-    name: 'monkey face',
+    name: 'monkey-face',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
@@ -3294,7 +3294,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🐶': {
-    name: 'dog face',
+    name: 'dog-face',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
@@ -3306,13 +3306,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '🦮': {
-    name: 'guide dog',
+    name: 'guide-dog',
     group: 'Animals & Nature',
     version: '12.0',
     skin_tone_support: false
   },
   '🐕‍🦺': {
-    name: 'service dog',
+    name: 'service-dog',
     group: 'Animals & Nature',
     version: '12.0',
     skin_tone_support: false
@@ -3342,7 +3342,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🐱': {
-    name: 'cat face',
+    name: 'cat-face',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
@@ -3354,7 +3354,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🐈‍⬛': {
-    name: 'black cat',
+    name: 'black-cat',
     group: 'Animals & Nature',
     version: '13.0',
     skin_tone_support: false
@@ -3366,7 +3366,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🐯': {
-    name: 'tiger face',
+    name: 'tiger-face',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
@@ -3384,7 +3384,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🐴': {
-    name: 'horse face',
+    name: 'horse-face',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
@@ -3420,7 +3420,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🐮': {
-    name: 'cow face',
+    name: 'cow-face',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
@@ -3432,7 +3432,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🐃': {
-    name: 'water buffalo',
+    name: 'water-buffalo',
     group: 'Animals & Nature',
     version: '1.0',
     skin_tone_support: false
@@ -3444,7 +3444,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🐷': {
-    name: 'pig face',
+    name: 'pig-face',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
@@ -3462,7 +3462,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🐽': {
-    name: 'pig nose',
+    name: 'pig-nose',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
@@ -3492,7 +3492,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🐫': {
-    name: 'two-hump camel',
+    name: 'two-hump-camel',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
@@ -3534,7 +3534,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🐭': {
-    name: 'mouse face',
+    name: 'mouse-face',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
@@ -3558,7 +3558,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🐰': {
-    name: 'rabbit face',
+    name: 'rabbit-face',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
@@ -3600,7 +3600,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🐻‍❄️': {
-    name: 'polar bear',
+    name: 'polar-bear',
     group: 'Animals & Nature',
     version: '13.0',
     skin_tone_support: false
@@ -3648,7 +3648,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🐾': {
-    name: 'paw prints',
+    name: 'paw-prints',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
@@ -3672,19 +3672,19 @@ export const emojis = {
     skin_tone_support: false
   },
   '🐣': {
-    name: 'hatching chick',
+    name: 'hatching-chick',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
   },
   '🐤': {
-    name: 'baby chick',
+    name: 'baby-chick',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
   },
   '🐥': {
-    name: 'front-facing baby chick',
+    name: 'front-facing-baby-chick',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
@@ -3792,7 +3792,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🐲': {
-    name: 'dragon face',
+    name: 'dragon-face',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
@@ -3816,7 +3816,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🐳': {
-    name: 'spouting whale',
+    name: 'spouting-whale',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
@@ -3846,7 +3846,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🐠': {
-    name: 'tropical fish',
+    name: 'tropical-fish',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
@@ -3870,7 +3870,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🐚': {
-    name: 'spiral shell',
+    name: 'spiral-shell',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
@@ -3912,7 +3912,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🐞': {
-    name: 'lady beetle',
+    name: 'lady-beetle',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
@@ -3936,7 +3936,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🕸️': {
-    name: 'spider web',
+    name: 'spider-web',
     group: 'Animals & Nature',
     version: '0.7',
     skin_tone_support: false
@@ -3978,13 +3978,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '🌸': {
-    name: 'cherry blossom',
+    name: 'cherry-blossom',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
   },
   '💮': {
-    name: 'white flower',
+    name: 'white-flower',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
@@ -4002,7 +4002,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🥀': {
-    name: 'wilted flower',
+    name: 'wilted-flower',
     group: 'Animals & Nature',
     version: '3.0',
     skin_tone_support: false
@@ -4038,25 +4038,25 @@ export const emojis = {
     skin_tone_support: false
   },
   '🪴': {
-    name: 'potted plant',
+    name: 'potted-plant',
     group: 'Animals & Nature',
     version: '13.0',
     skin_tone_support: false
   },
   '🌲': {
-    name: 'evergreen tree',
+    name: 'evergreen-tree',
     group: 'Animals & Nature',
     version: '1.0',
     skin_tone_support: false
   },
   '🌳': {
-    name: 'deciduous tree',
+    name: 'deciduous-tree',
     group: 'Animals & Nature',
     version: '1.0',
     skin_tone_support: false
   },
   '🌴': {
-    name: 'palm tree',
+    name: 'palm-tree',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
@@ -4068,7 +4068,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🌾': {
-    name: 'sheaf of rice',
+    name: 'sheaf-of-rice',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
@@ -4086,25 +4086,25 @@ export const emojis = {
     skin_tone_support: false
   },
   '🍀': {
-    name: 'four leaf clover',
+    name: 'four-leaf-clover',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
   },
   '🍁': {
-    name: 'maple leaf',
+    name: 'maple-leaf',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
   },
   '🍂': {
-    name: 'fallen leaf',
+    name: 'fallen-leaf',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
   },
   '🍃': {
-    name: 'leaf fluttering in wind',
+    name: 'leaf-fluttering-in-wind',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
@@ -4158,13 +4158,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '🍎': {
-    name: 'red apple',
+    name: 'red-apple',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
   },
   '🍏': {
-    name: 'green apple',
+    name: 'green-apple',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
@@ -4200,7 +4200,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🥝': {
-    name: 'kiwi fruit',
+    name: 'kiwi-fruit',
     group: 'Food & Drink',
     version: '3.0',
     skin_tone_support: false
@@ -4248,19 +4248,19 @@ export const emojis = {
     skin_tone_support: false
   },
   '🌽': {
-    name: 'ear of corn',
+    name: 'ear-of-corn',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
   },
   '🌶️': {
-    name: 'hot pepper',
+    name: 'hot-pepper',
     group: 'Food & Drink',
     version: '0.7',
     skin_tone_support: false
   },
   '🫑': {
-    name: 'bell pepper',
+    name: 'bell-pepper',
     group: 'Food & Drink',
     version: '13.0',
     skin_tone_support: false
@@ -4272,7 +4272,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🥬': {
-    name: 'leafy green',
+    name: 'leafy-green',
     group: 'Food & Drink',
     version: '11.0',
     skin_tone_support: false
@@ -4326,7 +4326,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🥖': {
-    name: 'baguette bread',
+    name: 'baguette-bread',
     group: 'Food & Drink',
     version: '3.0',
     skin_tone_support: false
@@ -4362,25 +4362,25 @@ export const emojis = {
     skin_tone_support: false
   },
   '🧀': {
-    name: 'cheese wedge',
+    name: 'cheese-wedge',
     group: 'Food & Drink',
     version: '1.0',
     skin_tone_support: false
   },
   '🍖': {
-    name: 'meat on bone',
+    name: 'meat-on-bone',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
   },
   '🍗': {
-    name: 'poultry leg',
+    name: 'poultry-leg',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
   },
   '🥩': {
-    name: 'cut of meat',
+    name: 'cut-of-meat',
     group: 'Food & Drink',
     version: '5.0',
     skin_tone_support: false
@@ -4398,7 +4398,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🍟': {
-    name: 'french fries',
+    name: 'french-fries',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
@@ -4410,7 +4410,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🌭': {
-    name: 'hot dog',
+    name: 'hot-dog',
     group: 'Food & Drink',
     version: '1.0',
     skin_tone_support: false
@@ -4440,7 +4440,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🥙': {
-    name: 'stuffed flatbread',
+    name: 'stuffed-flatbread',
     group: 'Food & Drink',
     version: '3.0',
     skin_tone_support: false
@@ -4464,13 +4464,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '🥘': {
-    name: 'shallow pan of food',
+    name: 'shallow-pan-of-food',
     group: 'Food & Drink',
     version: '3.0',
     skin_tone_support: false
   },
   '🍲': {
-    name: 'pot of food',
+    name: 'pot-of-food',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
@@ -4482,13 +4482,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '🥣': {
-    name: 'bowl with spoon',
+    name: 'bowl-with-spoon',
     group: 'Food & Drink',
     version: '5.0',
     skin_tone_support: false
   },
   '🥗': {
-    name: 'green salad',
+    name: 'green-salad',
     group: 'Food & Drink',
     version: '3.0',
     skin_tone_support: false
@@ -4512,43 +4512,43 @@ export const emojis = {
     skin_tone_support: false
   },
   '🥫': {
-    name: 'canned food',
+    name: 'canned-food',
     group: 'Food & Drink',
     version: '5.0',
     skin_tone_support: false
   },
   '🍱': {
-    name: 'bento box',
+    name: 'bento-box',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
   },
   '🍘': {
-    name: 'rice cracker',
+    name: 'rice-cracker',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
   },
   '🍙': {
-    name: 'rice ball',
+    name: 'rice-ball',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
   },
   '🍚': {
-    name: 'cooked rice',
+    name: 'cooked-rice',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
   },
   '🍛': {
-    name: 'curry rice',
+    name: 'curry-rice',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
   },
   '🍜': {
-    name: 'steaming bowl',
+    name: 'steaming-bowl',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
@@ -4560,7 +4560,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🍠': {
-    name: 'roasted sweet potato',
+    name: 'roasted-sweet-potato',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
@@ -4578,19 +4578,19 @@ export const emojis = {
     skin_tone_support: false
   },
   '🍤': {
-    name: 'fried shrimp',
+    name: 'fried-shrimp',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
   },
   '🍥': {
-    name: 'fish cake with swirl',
+    name: 'fish-cake-with-swirl',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
   },
   '🥮': {
-    name: 'moon cake',
+    name: 'moon-cake',
     group: 'Food & Drink',
     version: '11.0',
     skin_tone_support: false
@@ -4608,13 +4608,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '🥠': {
-    name: 'fortune cookie',
+    name: 'fortune-cookie',
     group: 'Food & Drink',
     version: '5.0',
     skin_tone_support: false
   },
   '🥡': {
-    name: 'takeout box',
+    name: 'takeout-box',
     group: 'Food & Drink',
     version: '5.0',
     skin_tone_support: false
@@ -4650,19 +4650,19 @@ export const emojis = {
     skin_tone_support: false
   },
   '🍦': {
-    name: 'soft ice cream',
+    name: 'soft-ice-cream',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
   },
   '🍧': {
-    name: 'shaved ice',
+    name: 'shaved-ice',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
   },
   '🍨': {
-    name: 'ice cream',
+    name: 'ice-cream',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
@@ -4680,7 +4680,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🎂': {
-    name: 'birthday cake',
+    name: 'birthday-cake',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
@@ -4704,7 +4704,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🍫': {
-    name: 'chocolate bar',
+    name: 'chocolate-bar',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
@@ -4728,25 +4728,25 @@ export const emojis = {
     skin_tone_support: false
   },
   '🍯': {
-    name: 'honey pot',
+    name: 'honey-pot',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
   },
   '🍼': {
-    name: 'baby bottle',
+    name: 'baby-bottle',
     group: 'Food & Drink',
     version: '1.0',
     skin_tone_support: false
   },
   '🥛': {
-    name: 'glass of milk',
+    name: 'glass-of-milk',
     group: 'Food & Drink',
     version: '3.0',
     skin_tone_support: false
   },
   '☕': {
-    name: 'hot beverage',
+    name: 'hot-beverage',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
@@ -4758,7 +4758,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🍵': {
-    name: 'teacup without handle',
+    name: 'teacup-without-handle',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
@@ -4770,67 +4770,67 @@ export const emojis = {
     skin_tone_support: false
   },
   '🍾': {
-    name: 'bottle with popping cork',
+    name: 'bottle-with-popping-cork',
     group: 'Food & Drink',
     version: '1.0',
     skin_tone_support: false
   },
   '🍷': {
-    name: 'wine glass',
+    name: 'wine-glass',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
   },
   '🍸': {
-    name: 'cocktail glass',
+    name: 'cocktail-glass',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
   },
   '🍹': {
-    name: 'tropical drink',
+    name: 'tropical-drink',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
   },
   '🍺': {
-    name: 'beer mug',
+    name: 'beer-mug',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
   },
   '🍻': {
-    name: 'clinking beer mugs',
+    name: 'clinking-beer-mugs',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
   },
   '🥂': {
-    name: 'clinking glasses',
+    name: 'clinking-glasses',
     group: 'Food & Drink',
     version: '3.0',
     skin_tone_support: false
   },
   '🥃': {
-    name: 'tumbler glass',
+    name: 'tumbler-glass',
     group: 'Food & Drink',
     version: '3.0',
     skin_tone_support: false
   },
   '🥤': {
-    name: 'cup with straw',
+    name: 'cup-with-straw',
     group: 'Food & Drink',
     version: '5.0',
     skin_tone_support: false
   },
   '🧋': {
-    name: 'bubble tea',
+    name: 'bubble-tea',
     group: 'Food & Drink',
     version: '13.0',
     skin_tone_support: false
   },
   '🧃': {
-    name: 'beverage box',
+    name: 'beverage-box',
     group: 'Food & Drink',
     version: '12.0',
     skin_tone_support: false
@@ -4854,13 +4854,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '🍽️': {
-    name: 'fork and knife with plate',
+    name: 'fork-and-knife-with-plate',
     group: 'Food & Drink',
     version: '0.7',
     skin_tone_support: false
   },
   '🍴': {
-    name: 'fork and knife',
+    name: 'fork-and-knife',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
@@ -4872,7 +4872,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🔪': {
-    name: 'kitchen knife',
+    name: 'kitchen-knife',
     group: 'Food & Drink',
     version: '0.6',
     skin_tone_support: false
@@ -4884,37 +4884,37 @@ export const emojis = {
     skin_tone_support: false
   },
   '🌍': {
-    name: 'globe showing Europe-Africa',
+    name: 'globe-showing-Europe-Africa',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
   },
   '🌎': {
-    name: 'globe showing Americas',
+    name: 'globe-showing-Americas',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
   },
   '🌏': {
-    name: 'globe showing Asia-Australia',
+    name: 'globe-showing-Asia-Australia',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '🌐': {
-    name: 'globe with meridians',
+    name: 'globe-with-meridians',
     group: 'Travel & Places',
     version: '1.0',
     skin_tone_support: false
   },
   '🗺️': {
-    name: 'world map',
+    name: 'world-map',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
   },
   '🗾': {
-    name: 'map of Japan',
+    name: 'map-of-Japan',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -4926,7 +4926,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🏔️': {
-    name: 'snow-capped mountain',
+    name: 'snow-capped-mountain',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -4944,7 +4944,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🗻': {
-    name: 'mount fuji',
+    name: 'mount-fuji',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -4956,7 +4956,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🏖️': {
-    name: 'beach with umbrella',
+    name: 'beach-with-umbrella',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -4968,13 +4968,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '🏝️': {
-    name: 'desert island',
+    name: 'desert-island',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
   },
   '🏞️': {
-    name: 'national park',
+    name: 'national-park',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -4986,13 +4986,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '🏛️': {
-    name: 'classical building',
+    name: 'classical-building',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
   },
   '🏗️': {
-    name: 'building construction',
+    name: 'building-construction',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -5028,7 +5028,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🏚️': {
-    name: 'derelict house',
+    name: 'derelict-house',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -5040,25 +5040,25 @@ export const emojis = {
     skin_tone_support: false
   },
   '🏡': {
-    name: 'house with garden',
+    name: 'house-with-garden',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '🏢': {
-    name: 'office building',
+    name: 'office-building',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '🏣': {
-    name: 'Japanese post office',
+    name: 'Japanese-post-office',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '🏤': {
-    name: 'post office',
+    name: 'post-office',
     group: 'Travel & Places',
     version: '1.0',
     skin_tone_support: false
@@ -5082,13 +5082,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '🏩': {
-    name: 'love hotel',
+    name: 'love-hotel',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '🏪': {
-    name: 'convenience store',
+    name: 'convenience-store',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -5100,7 +5100,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🏬': {
-    name: 'department store',
+    name: 'department-store',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -5112,7 +5112,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🏯': {
-    name: 'Japanese castle',
+    name: 'Japanese-castle',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -5130,13 +5130,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '🗼': {
-    name: 'Tokyo tower',
+    name: 'Tokyo-tower',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '🗽': {
-    name: 'Statue of Liberty',
+    name: 'Statue-of-Liberty',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -5154,7 +5154,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🛕': {
-    name: 'hindu temple',
+    name: 'hindu-temple',
     group: 'Travel & Places',
     version: '12.0',
     skin_tone_support: false
@@ -5166,7 +5166,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '⛩️': {
-    name: 'shinto shrine',
+    name: 'shinto-shrine',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -5196,7 +5196,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🌃': {
-    name: 'night with stars',
+    name: 'night-with-stars',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -5208,7 +5208,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🌄': {
-    name: 'sunrise over mountains',
+    name: 'sunrise-over-mountains',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -5220,7 +5220,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🌆': {
-    name: 'cityscape at dusk',
+    name: 'cityscape-at-dusk',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -5232,43 +5232,43 @@ export const emojis = {
     skin_tone_support: false
   },
   '🌉': {
-    name: 'bridge at night',
+    name: 'bridge-at-night',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '♨️': {
-    name: 'hot springs',
+    name: 'hot-springs',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '🎠': {
-    name: 'carousel horse',
+    name: 'carousel-horse',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '🎡': {
-    name: 'ferris wheel',
+    name: 'ferris-wheel',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '🎢': {
-    name: 'roller coaster',
+    name: 'roller-coaster',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '💈': {
-    name: 'barber pole',
+    name: 'barber-pole',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '🎪': {
-    name: 'circus tent',
+    name: 'circus-tent',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -5280,19 +5280,19 @@ export const emojis = {
     skin_tone_support: false
   },
   '🚃': {
-    name: 'railway car',
+    name: 'railway-car',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '🚄': {
-    name: 'high-speed train',
+    name: 'high-speed-train',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '🚅': {
-    name: 'bullet train',
+    name: 'bullet-train',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -5310,7 +5310,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🚈': {
-    name: 'light rail',
+    name: 'light-rail',
     group: 'Travel & Places',
     version: '1.0',
     skin_tone_support: false
@@ -5334,13 +5334,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '🚞': {
-    name: 'mountain railway',
+    name: 'mountain-railway',
     group: 'Travel & Places',
     version: '1.0',
     skin_tone_support: false
   },
   '🚋': {
-    name: 'tram car',
+    name: 'tram-car',
     group: 'Travel & Places',
     version: '1.0',
     skin_tone_support: false
@@ -5352,7 +5352,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🚍': {
-    name: 'oncoming bus',
+    name: 'oncoming-bus',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -5376,19 +5376,19 @@ export const emojis = {
     skin_tone_support: false
   },
   '🚒': {
-    name: 'fire engine',
+    name: 'fire-engine',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '🚓': {
-    name: 'police car',
+    name: 'police-car',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '🚔': {
-    name: 'oncoming police car',
+    name: 'oncoming-police-car',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -5400,7 +5400,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🚖': {
-    name: 'oncoming taxi',
+    name: 'oncoming-taxi',
     group: 'Travel & Places',
     version: '1.0',
     skin_tone_support: false
@@ -5412,31 +5412,31 @@ export const emojis = {
     skin_tone_support: false
   },
   '🚘': {
-    name: 'oncoming automobile',
+    name: 'oncoming-automobile',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
   },
   '🚙': {
-    name: 'sport utility vehicle',
+    name: 'sport-utility-vehicle',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '🛻': {
-    name: 'pickup truck',
+    name: 'pickup-truck',
     group: 'Travel & Places',
     version: '13.0',
     skin_tone_support: false
   },
   '🚚': {
-    name: 'delivery truck',
+    name: 'delivery-truck',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '🚛': {
-    name: 'articulated lorry',
+    name: 'articulated-lorry',
     group: 'Travel & Places',
     version: '1.0',
     skin_tone_support: false
@@ -5448,7 +5448,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🏎️': {
-    name: 'racing car',
+    name: 'racing-car',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -5460,25 +5460,25 @@ export const emojis = {
     skin_tone_support: false
   },
   '🛵': {
-    name: 'motor scooter',
+    name: 'motor-scooter',
     group: 'Travel & Places',
     version: '3.0',
     skin_tone_support: false
   },
   '🦽': {
-    name: 'manual wheelchair',
+    name: 'manual-wheelchair',
     group: 'Travel & Places',
     version: '12.0',
     skin_tone_support: false
   },
   '🦼': {
-    name: 'motorized wheelchair',
+    name: 'motorized-wheelchair',
     group: 'Travel & Places',
     version: '12.0',
     skin_tone_support: false
   },
   '🛺': {
-    name: 'auto rickshaw',
+    name: 'auto-rickshaw',
     group: 'Travel & Places',
     version: '12.0',
     skin_tone_support: false
@@ -5490,7 +5490,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🛴': {
-    name: 'kick scooter',
+    name: 'kick-scooter',
     group: 'Travel & Places',
     version: '3.0',
     skin_tone_support: false
@@ -5502,13 +5502,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '🛼': {
-    name: 'roller skate',
+    name: 'roller-skate',
     group: 'Travel & Places',
     version: '13.0',
     skin_tone_support: false
   },
   '🚏': {
-    name: 'bus stop',
+    name: 'bus-stop',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -5520,43 +5520,43 @@ export const emojis = {
     skin_tone_support: false
   },
   '🛤️': {
-    name: 'railway track',
+    name: 'railway-track',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
   },
   '🛢️': {
-    name: 'oil drum',
+    name: 'oil-drum',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
   },
   '⛽': {
-    name: 'fuel pump',
+    name: 'fuel-pump',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '🚨': {
-    name: 'police car light',
+    name: 'police-car-light',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '🚥': {
-    name: 'horizontal traffic light',
+    name: 'horizontal-traffic-light',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '🚦': {
-    name: 'vertical traffic light',
+    name: 'vertical-traffic-light',
     group: 'Travel & Places',
     version: '1.0',
     skin_tone_support: false
   },
   '🛑': {
-    name: 'stop sign',
+    name: 'stop-sign',
     group: 'Travel & Places',
     version: '3.0',
     skin_tone_support: false
@@ -5592,7 +5592,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🛳️': {
-    name: 'passenger ship',
+    name: 'passenger-ship',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -5604,7 +5604,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🛥️': {
-    name: 'motor boat',
+    name: 'motor-boat',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -5622,19 +5622,19 @@ export const emojis = {
     skin_tone_support: false
   },
   '🛩️': {
-    name: 'small airplane',
+    name: 'small-airplane',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
   },
   '🛫': {
-    name: 'airplane departure',
+    name: 'airplane-departure',
     group: 'Travel & Places',
     version: '1.0',
     skin_tone_support: false
   },
   '🛬': {
-    name: 'airplane arrival',
+    name: 'airplane-arrival',
     group: 'Travel & Places',
     version: '1.0',
     skin_tone_support: false
@@ -5658,19 +5658,19 @@ export const emojis = {
     skin_tone_support: false
   },
   '🚟': {
-    name: 'suspension railway',
+    name: 'suspension-railway',
     group: 'Travel & Places',
     version: '1.0',
     skin_tone_support: false
   },
   '🚠': {
-    name: 'mountain cableway',
+    name: 'mountain-cableway',
     group: 'Travel & Places',
     version: '1.0',
     skin_tone_support: false
   },
   '🚡': {
-    name: 'aerial tramway',
+    name: 'aerial-tramway',
     group: 'Travel & Places',
     version: '1.0',
     skin_tone_support: false
@@ -5688,13 +5688,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '🛸': {
-    name: 'flying saucer',
+    name: 'flying-saucer',
     group: 'Travel & Places',
     version: '5.0',
     skin_tone_support: false
   },
   '🛎️': {
-    name: 'bellhop bell',
+    name: 'bellhop-bell',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -5706,13 +5706,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '⌛': {
-    name: 'hourglass done',
+    name: 'hourglass-done',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '⏳': {
-    name: 'hourglass not done',
+    name: 'hourglass-not-done',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -5724,7 +5724,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '⏰': {
-    name: 'alarm clock',
+    name: 'alarm-clock',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -5736,19 +5736,19 @@ export const emojis = {
     skin_tone_support: false
   },
   '⏲️': {
-    name: 'timer clock',
+    name: 'timer-clock',
     group: 'Travel & Places',
     version: '1.0',
     skin_tone_support: false
   },
   '🕰️': {
-    name: 'mantelpiece clock',
+    name: 'mantelpiece-clock',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
   },
   '🕛': {
-    name: 'twelve o’clock',
+    name: 'twelve-o’clock',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -5760,7 +5760,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🕐': {
-    name: 'one o’clock',
+    name: 'one-o’clock',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -5772,7 +5772,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🕑': {
-    name: 'two o’clock',
+    name: 'two-o’clock',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -5784,7 +5784,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🕒': {
-    name: 'three o’clock',
+    name: 'three-o’clock',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -5796,7 +5796,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🕓': {
-    name: 'four o’clock',
+    name: 'four-o’clock',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -5808,7 +5808,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🕔': {
-    name: 'five o’clock',
+    name: 'five-o’clock',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -5820,7 +5820,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🕕': {
-    name: 'six o’clock',
+    name: 'six-o’clock',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -5832,7 +5832,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🕖': {
-    name: 'seven o’clock',
+    name: 'seven-o’clock',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -5844,7 +5844,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🕗': {
-    name: 'eight o’clock',
+    name: 'eight-o’clock',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -5856,7 +5856,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🕘': {
-    name: 'nine o’clock',
+    name: 'nine-o’clock',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -5868,7 +5868,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🕙': {
-    name: 'ten o’clock',
+    name: 'ten-o’clock',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -5880,7 +5880,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🕚': {
-    name: 'eleven o’clock',
+    name: 'eleven-o’clock',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -5892,73 +5892,73 @@ export const emojis = {
     skin_tone_support: false
   },
   '🌑': {
-    name: 'new moon',
+    name: 'new-moon',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '🌒': {
-    name: 'waxing crescent moon',
+    name: 'waxing-crescent-moon',
     group: 'Travel & Places',
     version: '1.0',
     skin_tone_support: false
   },
   '🌓': {
-    name: 'first quarter moon',
+    name: 'first-quarter-moon',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '🌔': {
-    name: 'waxing gibbous moon',
+    name: 'waxing-gibbous-moon',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '🌕': {
-    name: 'full moon',
+    name: 'full-moon',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '🌖': {
-    name: 'waning gibbous moon',
+    name: 'waning-gibbous-moon',
     group: 'Travel & Places',
     version: '1.0',
     skin_tone_support: false
   },
   '🌗': {
-    name: 'last quarter moon',
+    name: 'last-quarter-moon',
     group: 'Travel & Places',
     version: '1.0',
     skin_tone_support: false
   },
   '🌘': {
-    name: 'waning crescent moon',
+    name: 'waning-crescent-moon',
     group: 'Travel & Places',
     version: '1.0',
     skin_tone_support: false
   },
   '🌙': {
-    name: 'crescent moon',
+    name: 'crescent-moon',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '🌚': {
-    name: 'new moon face',
+    name: 'new-moon-face',
     group: 'Travel & Places',
     version: '1.0',
     skin_tone_support: false
   },
   '🌛': {
-    name: 'first quarter moon face',
+    name: 'first-quarter-moon-face',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '🌜': {
-    name: 'last quarter moon face',
+    name: 'last-quarter-moon-face',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -5976,19 +5976,19 @@ export const emojis = {
     skin_tone_support: false
   },
   '🌝': {
-    name: 'full moon face',
+    name: 'full-moon-face',
     group: 'Travel & Places',
     version: '1.0',
     skin_tone_support: false
   },
   '🌞': {
-    name: 'sun with face',
+    name: 'sun-with-face',
     group: 'Travel & Places',
     version: '1.0',
     skin_tone_support: false
   },
   '🪐': {
-    name: 'ringed planet',
+    name: 'ringed-planet',
     group: 'Travel & Places',
     version: '12.0',
     skin_tone_support: false
@@ -6000,19 +6000,19 @@ export const emojis = {
     skin_tone_support: false
   },
   '🌟': {
-    name: 'glowing star',
+    name: 'glowing-star',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '🌠': {
-    name: 'shooting star',
+    name: 'shooting-star',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '🌌': {
-    name: 'milky way',
+    name: 'milky-way',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -6024,49 +6024,49 @@ export const emojis = {
     skin_tone_support: false
   },
   '⛅': {
-    name: 'sun behind cloud',
+    name: 'sun-behind-cloud',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '⛈️': {
-    name: 'cloud with lightning and rain',
+    name: 'cloud-with-lightning-and-rain',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
   },
   '🌤️': {
-    name: 'sun behind small cloud',
+    name: 'sun-behind-small-cloud',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
   },
   '🌥️': {
-    name: 'sun behind large cloud',
+    name: 'sun-behind-large-cloud',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
   },
   '🌦️': {
-    name: 'sun behind rain cloud',
+    name: 'sun-behind-rain-cloud',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
   },
   '🌧️': {
-    name: 'cloud with rain',
+    name: 'cloud-with-rain',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
   },
   '🌨️': {
-    name: 'cloud with snow',
+    name: 'cloud-with-snow',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
   },
   '🌩️': {
-    name: 'cloud with lightning',
+    name: 'cloud-with-lightning',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -6084,7 +6084,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🌬️': {
-    name: 'wind face',
+    name: 'wind-face',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -6102,7 +6102,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🌂': {
-    name: 'closed umbrella',
+    name: 'closed-umbrella',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -6114,19 +6114,19 @@ export const emojis = {
     skin_tone_support: false
   },
   '☔': {
-    name: 'umbrella with rain drops',
+    name: 'umbrella-with-rain-drops',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
   },
   '⛱️': {
-    name: 'umbrella on ground',
+    name: 'umbrella-on-ground',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
   },
   '⚡': {
-    name: 'high voltage',
+    name: 'high-voltage',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -6144,7 +6144,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '⛄': {
-    name: 'snowman without snow',
+    name: 'snowman-without-snow',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -6168,7 +6168,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🌊': {
-    name: 'water wave',
+    name: 'water-wave',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -6180,7 +6180,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🎄': {
-    name: 'Christmas tree',
+    name: 'Christmas-tree',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
@@ -6216,55 +6216,55 @@ export const emojis = {
     skin_tone_support: false
   },
   '🎉': {
-    name: 'party popper',
+    name: 'party-popper',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
   },
   '🎊': {
-    name: 'confetti ball',
+    name: 'confetti-ball',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
   },
   '🎋': {
-    name: 'tanabata tree',
+    name: 'tanabata-tree',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
   },
   '🎍': {
-    name: 'pine decoration',
+    name: 'pine-decoration',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
   },
   '🎎': {
-    name: 'Japanese dolls',
+    name: 'Japanese-dolls',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
   },
   '🎏': {
-    name: 'carp streamer',
+    name: 'carp-streamer',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
   },
   '🎐': {
-    name: 'wind chime',
+    name: 'wind-chime',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
   },
   '🎑': {
-    name: 'moon viewing ceremony',
+    name: 'moon-viewing-ceremony',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
   },
   '🧧': {
-    name: 'red envelope',
+    name: 'red-envelope',
     group: 'Activities',
     version: '11.0',
     skin_tone_support: false
@@ -6276,19 +6276,19 @@ export const emojis = {
     skin_tone_support: false
   },
   '🎁': {
-    name: 'wrapped gift',
+    name: 'wrapped-gift',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
   },
   '🎗️': {
-    name: 'reminder ribbon',
+    name: 'reminder-ribbon',
     group: 'Activities',
     version: '0.7',
     skin_tone_support: false
   },
   '🎟️': {
-    name: 'admission tickets',
+    name: 'admission-tickets',
     group: 'Activities',
     version: '0.7',
     skin_tone_support: false
@@ -6300,7 +6300,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🎖️': {
-    name: 'military medal',
+    name: 'military-medal',
     group: 'Activities',
     version: '0.7',
     skin_tone_support: false
@@ -6312,31 +6312,31 @@ export const emojis = {
     skin_tone_support: false
   },
   '🏅': {
-    name: 'sports medal',
+    name: 'sports-medal',
     group: 'Activities',
     version: '1.0',
     skin_tone_support: false
   },
   '🥇': {
-    name: '1st place medal',
+    name: '1st-place-medal',
     group: 'Activities',
     version: '3.0',
     skin_tone_support: false
   },
   '🥈': {
-    name: '2nd place medal',
+    name: '2nd-place-medal',
     group: 'Activities',
     version: '3.0',
     skin_tone_support: false
   },
   '🥉': {
-    name: '3rd place medal',
+    name: '3rd-place-medal',
     group: 'Activities',
     version: '3.0',
     skin_tone_support: false
   },
   '⚽': {
-    name: 'soccer ball',
+    name: 'soccer-ball',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
@@ -6366,13 +6366,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '🏈': {
-    name: 'american football',
+    name: 'american-football',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
   },
   '🏉': {
-    name: 'rugby football',
+    name: 'rugby-football',
     group: 'Activities',
     version: '1.0',
     skin_tone_support: false
@@ -6384,7 +6384,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🥏': {
-    name: 'flying disc',
+    name: 'flying-disc',
     group: 'Activities',
     version: '11.0',
     skin_tone_support: false
@@ -6396,19 +6396,19 @@ export const emojis = {
     skin_tone_support: false
   },
   '🏏': {
-    name: 'cricket game',
+    name: 'cricket-game',
     group: 'Activities',
     version: '1.0',
     skin_tone_support: false
   },
   '🏑': {
-    name: 'field hockey',
+    name: 'field-hockey',
     group: 'Activities',
     version: '1.0',
     skin_tone_support: false
   },
   '🏒': {
-    name: 'ice hockey',
+    name: 'ice-hockey',
     group: 'Activities',
     version: '1.0',
     skin_tone_support: false
@@ -6420,7 +6420,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🏓': {
-    name: 'ping pong',
+    name: 'ping-pong',
     group: 'Activities',
     version: '1.0',
     skin_tone_support: false
@@ -6432,49 +6432,49 @@ export const emojis = {
     skin_tone_support: false
   },
   '🥊': {
-    name: 'boxing glove',
+    name: 'boxing-glove',
     group: 'Activities',
     version: '3.0',
     skin_tone_support: false
   },
   '🥋': {
-    name: 'martial arts uniform',
+    name: 'martial-arts-uniform',
     group: 'Activities',
     version: '3.0',
     skin_tone_support: false
   },
   '🥅': {
-    name: 'goal net',
+    name: 'goal-net',
     group: 'Activities',
     version: '3.0',
     skin_tone_support: false
   },
   '⛳': {
-    name: 'flag in hole',
+    name: 'flag-in-hole',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
   },
   '⛸️': {
-    name: 'ice skate',
+    name: 'ice-skate',
     group: 'Activities',
     version: '0.7',
     skin_tone_support: false
   },
   '🎣': {
-    name: 'fishing pole',
+    name: 'fishing-pole',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
   },
   '🤿': {
-    name: 'diving mask',
+    name: 'diving-mask',
     group: 'Activities',
     version: '12.0',
     skin_tone_support: false
   },
   '🎽': {
-    name: 'running shirt',
+    name: 'running-shirt',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
@@ -6492,13 +6492,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '🥌': {
-    name: 'curling stone',
+    name: 'curling-stone',
     group: 'Activities',
     version: '5.0',
     skin_tone_support: false
   },
   '🎯': {
-    name: 'direct hit',
+    name: 'direct-hit',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
@@ -6516,31 +6516,31 @@ export const emojis = {
     skin_tone_support: false
   },
   '🎱': {
-    name: 'pool 8 ball',
+    name: 'pool-8-ball',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
   },
   '🔮': {
-    name: 'crystal ball',
+    name: 'crystal-ball',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
   },
   '🪄': {
-    name: 'magic wand',
+    name: 'magic-wand',
     group: 'Activities',
     version: '13.0',
     skin_tone_support: false
   },
   '🧿': {
-    name: 'nazar amulet',
+    name: 'nazar-amulet',
     group: 'Activities',
     version: '11.0',
     skin_tone_support: false
   },
   '🎮': {
-    name: 'video game',
+    name: 'video-game',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
@@ -6552,25 +6552,25 @@ export const emojis = {
     skin_tone_support: false
   },
   '🎰': {
-    name: 'slot machine',
+    name: 'slot-machine',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
   },
   '🎲': {
-    name: 'game die',
+    name: 'game-die',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
   },
   '🧩': {
-    name: 'puzzle piece',
+    name: 'puzzle-piece',
     group: 'Activities',
     version: '11.0',
     skin_tone_support: false
   },
   '🧸': {
-    name: 'teddy bear',
+    name: 'teddy-bear',
     group: 'Activities',
     version: '11.0',
     skin_tone_support: false
@@ -6582,37 +6582,37 @@ export const emojis = {
     skin_tone_support: false
   },
   '🪆': {
-    name: 'nesting dolls',
+    name: 'nesting-dolls',
     group: 'Activities',
     version: '13.0',
     skin_tone_support: false
   },
   '♠️': {
-    name: 'spade suit',
+    name: 'spade-suit',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
   },
   '♥️': {
-    name: 'heart suit',
+    name: 'heart-suit',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
   },
   '♦️': {
-    name: 'diamond suit',
+    name: 'diamond-suit',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
   },
   '♣️': {
-    name: 'club suit',
+    name: 'club-suit',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
   },
   '♟️': {
-    name: 'chess pawn',
+    name: 'chess-pawn',
     group: 'Activities',
     version: '11.0',
     skin_tone_support: false
@@ -6624,31 +6624,31 @@ export const emojis = {
     skin_tone_support: false
   },
   '🀄': {
-    name: 'mahjong red dragon',
+    name: 'mahjong-red-dragon',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
   },
   '🎴': {
-    name: 'flower playing cards',
+    name: 'flower-playing-cards',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
   },
   '🎭': {
-    name: 'performing arts',
+    name: 'performing-arts',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
   },
   '🖼️': {
-    name: 'framed picture',
+    name: 'framed-picture',
     group: 'Activities',
     version: '0.7',
     skin_tone_support: false
   },
   '🎨': {
-    name: 'artist palette',
+    name: 'artist-palette',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
@@ -6660,7 +6660,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🪡': {
-    name: 'sewing needle',
+    name: 'sewing-needle',
     group: 'Activities',
     version: '13.0',
     skin_tone_support: false
@@ -6696,13 +6696,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '🥼': {
-    name: 'lab coat',
+    name: 'lab-coat',
     group: 'Objects',
     version: '11.0',
     skin_tone_support: false
   },
   '🦺': {
-    name: 'safety vest',
+    name: 'safety-vest',
     group: 'Objects',
     version: '12.0',
     skin_tone_support: false
@@ -6768,7 +6768,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🩱': {
-    name: 'one-piece swimsuit',
+    name: 'one-piece-swimsuit',
     group: 'Objects',
     version: '12.0',
     skin_tone_support: false
@@ -6792,7 +6792,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '👚': {
-    name: 'woman’s clothes',
+    name: 'woman’s-clothes',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -6810,13 +6810,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '👝': {
-    name: 'clutch bag',
+    name: 'clutch-bag',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '🛍️': {
-    name: 'shopping bags',
+    name: 'shopping-bags',
     group: 'Objects',
     version: '0.7',
     skin_tone_support: false
@@ -6828,55 +6828,55 @@ export const emojis = {
     skin_tone_support: false
   },
   '🩴': {
-    name: 'thong sandal',
+    name: 'thong-sandal',
     group: 'Objects',
     version: '13.0',
     skin_tone_support: false
   },
   '👞': {
-    name: 'man’s shoe',
+    name: 'man’s-shoe',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '👟': {
-    name: 'running shoe',
+    name: 'running-shoe',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '🥾': {
-    name: 'hiking boot',
+    name: 'hiking-boot',
     group: 'Objects',
     version: '11.0',
     skin_tone_support: false
   },
   '🥿': {
-    name: 'flat shoe',
+    name: 'flat-shoe',
     group: 'Objects',
     version: '11.0',
     skin_tone_support: false
   },
   '👠': {
-    name: 'high-heeled shoe',
+    name: 'high-heeled-shoe',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '👡': {
-    name: 'woman’s sandal',
+    name: 'woman’s-sandal',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '🩰': {
-    name: 'ballet shoes',
+    name: 'ballet-shoes',
     group: 'Objects',
     version: '12.0',
     skin_tone_support: false
   },
   '👢': {
-    name: 'woman’s boot',
+    name: 'woman’s-boot',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -6888,43 +6888,43 @@ export const emojis = {
     skin_tone_support: false
   },
   '👒': {
-    name: 'woman’s hat',
+    name: 'woman’s-hat',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '🎩': {
-    name: 'top hat',
+    name: 'top-hat',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '🎓': {
-    name: 'graduation cap',
+    name: 'graduation-cap',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '🧢': {
-    name: 'billed cap',
+    name: 'billed-cap',
     group: 'Objects',
     version: '5.0',
     skin_tone_support: false
   },
   '🪖': {
-    name: 'military helmet',
+    name: 'military-helmet',
     group: 'Objects',
     version: '13.0',
     skin_tone_support: false
   },
   '⛑️': {
-    name: 'rescue worker’s helmet',
+    name: 'rescue-worker’s-helmet',
     group: 'Objects',
     version: '0.7',
     skin_tone_support: false
   },
   '📿': {
-    name: 'prayer beads',
+    name: 'prayer-beads',
     group: 'Objects',
     version: '1.0',
     skin_tone_support: false
@@ -6942,31 +6942,31 @@ export const emojis = {
     skin_tone_support: false
   },
   '💎': {
-    name: 'gem stone',
+    name: 'gem-stone',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '🔇': {
-    name: 'muted speaker',
+    name: 'muted-speaker',
     group: 'Objects',
     version: '1.0',
     skin_tone_support: false
   },
   '🔈': {
-    name: 'speaker low volume',
+    name: 'speaker-low-volume',
     group: 'Objects',
     version: '0.7',
     skin_tone_support: false
   },
   '🔉': {
-    name: 'speaker medium volume',
+    name: 'speaker-medium-volume',
     group: 'Objects',
     version: '1.0',
     skin_tone_support: false
   },
   '🔊': {
-    name: 'speaker high volume',
+    name: 'speaker-high-volume',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -6984,7 +6984,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '📯': {
-    name: 'postal horn',
+    name: 'postal-horn',
     group: 'Objects',
     version: '1.0',
     skin_tone_support: false
@@ -6996,43 +6996,43 @@ export const emojis = {
     skin_tone_support: false
   },
   '🔕': {
-    name: 'bell with slash',
+    name: 'bell-with-slash',
     group: 'Objects',
     version: '1.0',
     skin_tone_support: false
   },
   '🎼': {
-    name: 'musical score',
+    name: 'musical-score',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '🎵': {
-    name: 'musical note',
+    name: 'musical-note',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '🎶': {
-    name: 'musical notes',
+    name: 'musical-notes',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '🎙️': {
-    name: 'studio microphone',
+    name: 'studio-microphone',
     group: 'Objects',
     version: '0.7',
     skin_tone_support: false
   },
   '🎚️': {
-    name: 'level slider',
+    name: 'level-slider',
     group: 'Objects',
     version: '0.7',
     skin_tone_support: false
   },
   '🎛️': {
-    name: 'control knobs',
+    name: 'control-knobs',
     group: 'Objects',
     version: '0.7',
     skin_tone_support: false
@@ -7074,7 +7074,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🎹': {
-    name: 'musical keyboard',
+    name: 'musical-keyboard',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -7104,19 +7104,19 @@ export const emojis = {
     skin_tone_support: false
   },
   '🪘': {
-    name: 'long drum',
+    name: 'long-drum',
     group: 'Objects',
     version: '13.0',
     skin_tone_support: false
   },
   '📱': {
-    name: 'mobile phone',
+    name: 'mobile-phone',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '📲': {
-    name: 'mobile phone with arrow',
+    name: 'mobile-phone-with-arrow',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -7128,7 +7128,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '📞': {
-    name: 'telephone receiver',
+    name: 'telephone-receiver',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -7140,7 +7140,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '📠': {
-    name: 'fax machine',
+    name: 'fax-machine',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -7152,7 +7152,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🔌': {
-    name: 'electric plug',
+    name: 'electric-plug',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -7164,7 +7164,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🖥️': {
-    name: 'desktop computer',
+    name: 'desktop-computer',
     group: 'Objects',
     version: '0.7',
     skin_tone_support: false
@@ -7182,7 +7182,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🖱️': {
-    name: 'computer mouse',
+    name: 'computer-mouse',
     group: 'Objects',
     version: '0.7',
     skin_tone_support: false
@@ -7194,19 +7194,19 @@ export const emojis = {
     skin_tone_support: false
   },
   '💽': {
-    name: 'computer disk',
+    name: 'computer-disk',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '💾': {
-    name: 'floppy disk',
+    name: 'floppy-disk',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '💿': {
-    name: 'optical disk',
+    name: 'optical-disk',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -7224,25 +7224,25 @@ export const emojis = {
     skin_tone_support: false
   },
   '🎥': {
-    name: 'movie camera',
+    name: 'movie-camera',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '🎞️': {
-    name: 'film frames',
+    name: 'film-frames',
     group: 'Objects',
     version: '0.7',
     skin_tone_support: false
   },
   '📽️': {
-    name: 'film projector',
+    name: 'film-projector',
     group: 'Objects',
     version: '0.7',
     skin_tone_support: false
   },
   '🎬': {
-    name: 'clapper board',
+    name: 'clapper-board',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -7260,13 +7260,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '📸': {
-    name: 'camera with flash',
+    name: 'camera-with-flash',
     group: 'Objects',
     version: '1.0',
     skin_tone_support: false
   },
   '📹': {
-    name: 'video camera',
+    name: 'video-camera',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -7278,13 +7278,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '🔍': {
-    name: 'magnifying glass tilted left',
+    name: 'magnifying-glass-tilted-left',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '🔎': {
-    name: 'magnifying glass tilted right',
+    name: 'magnifying-glass-tilted-right',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -7296,7 +7296,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '💡': {
-    name: 'light bulb',
+    name: 'light-bulb',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -7308,49 +7308,49 @@ export const emojis = {
     skin_tone_support: false
   },
   '🏮': {
-    name: 'red paper lantern',
+    name: 'red-paper-lantern',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '🪔': {
-    name: 'diya lamp',
+    name: 'diya-lamp',
     group: 'Objects',
     version: '12.0',
     skin_tone_support: false
   },
   '📔': {
-    name: 'notebook with decorative cover',
+    name: 'notebook-with-decorative-cover',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '📕': {
-    name: 'closed book',
+    name: 'closed-book',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '📖': {
-    name: 'open book',
+    name: 'open-book',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '📗': {
-    name: 'green book',
+    name: 'green-book',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '📘': {
-    name: 'blue book',
+    name: 'blue-book',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '📙': {
-    name: 'orange book',
+    name: 'orange-book',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -7374,7 +7374,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '📃': {
-    name: 'page with curl',
+    name: 'page-with-curl',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -7386,7 +7386,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '📄': {
-    name: 'page facing up',
+    name: 'page-facing-up',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -7398,13 +7398,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '🗞️': {
-    name: 'rolled-up newspaper',
+    name: 'rolled-up-newspaper',
     group: 'Objects',
     version: '0.7',
     skin_tone_support: false
   },
   '📑': {
-    name: 'bookmark tabs',
+    name: 'bookmark-tabs',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -7422,7 +7422,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '💰': {
-    name: 'money bag',
+    name: 'money-bag',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -7434,37 +7434,37 @@ export const emojis = {
     skin_tone_support: false
   },
   '💴': {
-    name: 'yen banknote',
+    name: 'yen-banknote',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '💵': {
-    name: 'dollar banknote',
+    name: 'dollar-banknote',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '💶': {
-    name: 'euro banknote',
+    name: 'euro-banknote',
     group: 'Objects',
     version: '1.0',
     skin_tone_support: false
   },
   '💷': {
-    name: 'pound banknote',
+    name: 'pound-banknote',
     group: 'Objects',
     version: '1.0',
     skin_tone_support: false
   },
   '💸': {
-    name: 'money with wings',
+    name: 'money-with-wings',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '💳': {
-    name: 'credit card',
+    name: 'credit-card',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -7476,7 +7476,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '💹': {
-    name: 'chart increasing with yen',
+    name: 'chart-increasing-with-yen',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -7494,25 +7494,25 @@ export const emojis = {
     skin_tone_support: false
   },
   '📨': {
-    name: 'incoming envelope',
+    name: 'incoming-envelope',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '📩': {
-    name: 'envelope with arrow',
+    name: 'envelope-with-arrow',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '📤': {
-    name: 'outbox tray',
+    name: 'outbox-tray',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '📥': {
-    name: 'inbox tray',
+    name: 'inbox-tray',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -7524,25 +7524,25 @@ export const emojis = {
     skin_tone_support: false
   },
   '📫': {
-    name: 'closed mailbox with raised flag',
+    name: 'closed-mailbox-with-raised-flag',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '📪': {
-    name: 'closed mailbox with lowered flag',
+    name: 'closed-mailbox-with-lowered-flag',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '📬': {
-    name: 'open mailbox with raised flag',
+    name: 'open-mailbox-with-raised-flag',
     group: 'Objects',
     version: '0.7',
     skin_tone_support: false
   },
   '📭': {
-    name: 'open mailbox with lowered flag',
+    name: 'open-mailbox-with-lowered-flag',
     group: 'Objects',
     version: '0.7',
     skin_tone_support: false
@@ -7554,7 +7554,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🗳️': {
-    name: 'ballot box with ballot',
+    name: 'ballot-box-with-ballot',
     group: 'Objects',
     version: '0.7',
     skin_tone_support: false
@@ -7566,13 +7566,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '✒️': {
-    name: 'black nib',
+    name: 'black-nib',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '🖋️': {
-    name: 'fountain pen',
+    name: 'fountain-pen',
     group: 'Objects',
     version: '0.7',
     skin_tone_support: false
@@ -7608,19 +7608,19 @@ export const emojis = {
     skin_tone_support: false
   },
   '📁': {
-    name: 'file folder',
+    name: 'file-folder',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '📂': {
-    name: 'open file folder',
+    name: 'open-file-folder',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '🗂️': {
-    name: 'card index dividers',
+    name: 'card-index-dividers',
     group: 'Objects',
     version: '0.7',
     skin_tone_support: false
@@ -7632,43 +7632,43 @@ export const emojis = {
     skin_tone_support: false
   },
   '📆': {
-    name: 'tear-off calendar',
+    name: 'tear-off-calendar',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '🗒️': {
-    name: 'spiral notepad',
+    name: 'spiral-notepad',
     group: 'Objects',
     version: '0.7',
     skin_tone_support: false
   },
   '🗓️': {
-    name: 'spiral calendar',
+    name: 'spiral-calendar',
     group: 'Objects',
     version: '0.7',
     skin_tone_support: false
   },
   '📇': {
-    name: 'card index',
+    name: 'card-index',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '📈': {
-    name: 'chart increasing',
+    name: 'chart-increasing',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '📉': {
-    name: 'chart decreasing',
+    name: 'chart-decreasing',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '📊': {
-    name: 'bar chart',
+    name: 'bar-chart',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -7686,7 +7686,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '📍': {
-    name: 'round pushpin',
+    name: 'round-pushpin',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -7698,19 +7698,19 @@ export const emojis = {
     skin_tone_support: false
   },
   '🖇️': {
-    name: 'linked paperclips',
+    name: 'linked-paperclips',
     group: 'Objects',
     version: '0.7',
     skin_tone_support: false
   },
   '📏': {
-    name: 'straight ruler',
+    name: 'straight-ruler',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '📐': {
-    name: 'triangular ruler',
+    name: 'triangular-ruler',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -7722,13 +7722,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '🗃️': {
-    name: 'card file box',
+    name: 'card-file-box',
     group: 'Objects',
     version: '0.7',
     skin_tone_support: false
   },
   '🗄️': {
-    name: 'file cabinet',
+    name: 'file-cabinet',
     group: 'Objects',
     version: '0.7',
     skin_tone_support: false
@@ -7752,13 +7752,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '🔏': {
-    name: 'locked with pen',
+    name: 'locked-with-pen',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
   },
   '🔐': {
-    name: 'locked with key',
+    name: 'locked-with-key',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -7770,7 +7770,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🗝️': {
-    name: 'old key',
+    name: 'old-key',
     group: 'Objects',
     version: '0.7',
     skin_tone_support: false
@@ -7794,13 +7794,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '⚒️': {
-    name: 'hammer and pick',
+    name: 'hammer-and-pick',
     group: 'Objects',
     version: '1.0',
     skin_tone_support: false
   },
   '🛠️': {
-    name: 'hammer and wrench',
+    name: 'hammer-and-wrench',
     group: 'Objects',
     version: '0.7',
     skin_tone_support: false
@@ -7812,13 +7812,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '⚔️': {
-    name: 'crossed swords',
+    name: 'crossed-swords',
     group: 'Objects',
     version: '1.0',
     skin_tone_support: false
   },
   '🔫': {
-    name: 'water pistol',
+    name: 'water-pistol',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -7830,7 +7830,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🏹': {
-    name: 'bow and arrow',
+    name: 'bow-and-arrow',
     group: 'Objects',
     version: '1.0',
     skin_tone_support: false
@@ -7842,7 +7842,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🪚': {
-    name: 'carpentry saw',
+    name: 'carpentry-saw',
     group: 'Objects',
     version: '13.0',
     skin_tone_support: false
@@ -7860,7 +7860,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🔩': {
-    name: 'nut and bolt',
+    name: 'nut-and-bolt',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -7878,13 +7878,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '⚖️': {
-    name: 'balance scale',
+    name: 'balance-scale',
     group: 'Objects',
     version: '1.0',
     skin_tone_support: false
   },
   '🦯': {
-    name: 'white cane',
+    name: 'white-cane',
     group: 'Objects',
     version: '12.0',
     skin_tone_support: false
@@ -7932,13 +7932,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '🧪': {
-    name: 'test tube',
+    name: 'test-tube',
     group: 'Objects',
     version: '11.0',
     skin_tone_support: false
   },
   '🧫': {
-    name: 'petri dish',
+    name: 'petri-dish',
     group: 'Objects',
     version: '11.0',
     skin_tone_support: false
@@ -7962,7 +7962,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '📡': {
-    name: 'satellite antenna',
+    name: 'satellite-antenna',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -7974,7 +7974,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🩸': {
-    name: 'drop of blood',
+    name: 'drop-of-blood',
     group: 'Objects',
     version: '12.0',
     skin_tone_support: false
@@ -7986,7 +7986,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🩹': {
-    name: 'adhesive bandage',
+    name: 'adhesive-bandage',
     group: 'Objects',
     version: '12.0',
     skin_tone_support: false
@@ -8028,7 +8028,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🛋️': {
-    name: 'couch and lamp',
+    name: 'couch-and-lamp',
     group: 'Objects',
     version: '0.7',
     skin_tone_support: false
@@ -8064,7 +8064,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🪤': {
-    name: 'mouse trap',
+    name: 'mouse-trap',
     group: 'Objects',
     version: '13.0',
     skin_tone_support: false
@@ -8076,13 +8076,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '🧴': {
-    name: 'lotion bottle',
+    name: 'lotion-bottle',
     group: 'Objects',
     version: '11.0',
     skin_tone_support: false
   },
   '🧷': {
-    name: 'safety pin',
+    name: 'safety-pin',
     group: 'Objects',
     version: '11.0',
     skin_tone_support: false
@@ -8100,7 +8100,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🧻': {
-    name: 'roll of paper',
+    name: 'roll-of-paper',
     group: 'Objects',
     version: '11.0',
     skin_tone_support: false
@@ -8130,13 +8130,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '🧯': {
-    name: 'fire extinguisher',
+    name: 'fire-extinguisher',
     group: 'Objects',
     version: '11.0',
     skin_tone_support: false
   },
   '🛒': {
-    name: 'shopping cart',
+    name: 'shopping-cart',
     group: 'Objects',
     version: '3.0',
     skin_tone_support: false
@@ -8160,7 +8160,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '⚱️': {
-    name: 'funeral urn',
+    name: 'funeral-urn',
     group: 'Objects',
     version: '1.0',
     skin_tone_support: false
@@ -8178,37 +8178,37 @@ export const emojis = {
     skin_tone_support: false
   },
   '🏧': {
-    name: 'ATM sign',
+    name: 'ATM-sign',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🚮': {
-    name: 'litter in bin sign',
+    name: 'litter-in-bin-sign',
     group: 'Symbols',
     version: '1.0',
     skin_tone_support: false
   },
   '🚰': {
-    name: 'potable water',
+    name: 'potable-water',
     group: 'Symbols',
     version: '1.0',
     skin_tone_support: false
   },
   '♿': {
-    name: 'wheelchair symbol',
+    name: 'wheelchair-symbol',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🚹': {
-    name: 'men’s room',
+    name: 'men’s-room',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🚺': {
-    name: 'women’s room',
+    name: 'women’s-room',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
@@ -8220,19 +8220,19 @@ export const emojis = {
     skin_tone_support: false
   },
   '🚼': {
-    name: 'baby symbol',
+    name: 'baby-symbol',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🚾': {
-    name: 'water closet',
+    name: 'water-closet',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🛂': {
-    name: 'passport control',
+    name: 'passport-control',
     group: 'Symbols',
     version: '1.0',
     skin_tone_support: false
@@ -8244,13 +8244,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '🛄': {
-    name: 'baggage claim',
+    name: 'baggage-claim',
     group: 'Symbols',
     version: '1.0',
     skin_tone_support: false
   },
   '🛅': {
-    name: 'left luggage',
+    name: 'left-luggage',
     group: 'Symbols',
     version: '1.0',
     skin_tone_support: false
@@ -8262,13 +8262,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '🚸': {
-    name: 'children crossing',
+    name: 'children-crossing',
     group: 'Symbols',
     version: '1.0',
     skin_tone_support: false
   },
   '⛔': {
-    name: 'no entry',
+    name: 'no-entry',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
@@ -8280,43 +8280,43 @@ export const emojis = {
     skin_tone_support: false
   },
   '🚳': {
-    name: 'no bicycles',
+    name: 'no-bicycles',
     group: 'Symbols',
     version: '1.0',
     skin_tone_support: false
   },
   '🚭': {
-    name: 'no smoking',
+    name: 'no-smoking',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🚯': {
-    name: 'no littering',
+    name: 'no-littering',
     group: 'Symbols',
     version: '1.0',
     skin_tone_support: false
   },
   '🚱': {
-    name: 'non-potable water',
+    name: 'non-potable-water',
     group: 'Symbols',
     version: '1.0',
     skin_tone_support: false
   },
   '🚷': {
-    name: 'no pedestrians',
+    name: 'no-pedestrians',
     group: 'Symbols',
     version: '1.0',
     skin_tone_support: false
   },
   '📵': {
-    name: 'no mobile phones',
+    name: 'no-mobile-phones',
     group: 'Symbols',
     version: '1.0',
     skin_tone_support: false
   },
   '🔞': {
-    name: 'no one under eighteen',
+    name: 'no-one-under-eighteen',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
@@ -8334,139 +8334,139 @@ export const emojis = {
     skin_tone_support: false
   },
   '⬆️': {
-    name: 'up arrow',
+    name: 'up-arrow',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '↗️': {
-    name: 'up-right arrow',
+    name: 'up-right-arrow',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '➡️': {
-    name: 'right arrow',
+    name: 'right-arrow',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '↘️': {
-    name: 'down-right arrow',
+    name: 'down-right-arrow',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '⬇️': {
-    name: 'down arrow',
+    name: 'down-arrow',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '↙️': {
-    name: 'down-left arrow',
+    name: 'down-left-arrow',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '⬅️': {
-    name: 'left arrow',
+    name: 'left-arrow',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '↖️': {
-    name: 'up-left arrow',
+    name: 'up-left-arrow',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '↕️': {
-    name: 'up-down arrow',
+    name: 'up-down-arrow',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '↔️': {
-    name: 'left-right arrow',
+    name: 'left-right-arrow',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '↩️': {
-    name: 'right arrow curving left',
+    name: 'right-arrow-curving-left',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '↪️': {
-    name: 'left arrow curving right',
+    name: 'left-arrow-curving-right',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '⤴️': {
-    name: 'right arrow curving up',
+    name: 'right-arrow-curving-up',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '⤵️': {
-    name: 'right arrow curving down',
+    name: 'right-arrow-curving-down',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🔃': {
-    name: 'clockwise vertical arrows',
+    name: 'clockwise-vertical-arrows',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🔄': {
-    name: 'counterclockwise arrows button',
+    name: 'counterclockwise-arrows-button',
     group: 'Symbols',
     version: '1.0',
     skin_tone_support: false
   },
   '🔙': {
-    name: 'BACK arrow',
+    name: 'BACK-arrow',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🔚': {
-    name: 'END arrow',
+    name: 'END-arrow',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🔛': {
-    name: 'ON! arrow',
+    name: 'ON!-arrow',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🔜': {
-    name: 'SOON arrow',
+    name: 'SOON-arrow',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🔝': {
-    name: 'TOP arrow',
+    name: 'TOP-arrow',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🛐': {
-    name: 'place of worship',
+    name: 'place-of-worship',
     group: 'Symbols',
     version: '1.0',
     skin_tone_support: false
   },
   '⚛️': {
-    name: 'atom symbol',
+    name: 'atom-symbol',
     group: 'Symbols',
     version: '1.0',
     skin_tone_support: false
@@ -8478,43 +8478,43 @@ export const emojis = {
     skin_tone_support: false
   },
   '✡️': {
-    name: 'star of David',
+    name: 'star-of-David',
     group: 'Symbols',
     version: '0.7',
     skin_tone_support: false
   },
   '☸️': {
-    name: 'wheel of dharma',
+    name: 'wheel-of-dharma',
     group: 'Symbols',
     version: '0.7',
     skin_tone_support: false
   },
   '☯️': {
-    name: 'yin yang',
+    name: 'yin-yang',
     group: 'Symbols',
     version: '0.7',
     skin_tone_support: false
   },
   '✝️': {
-    name: 'latin cross',
+    name: 'latin-cross',
     group: 'Symbols',
     version: '0.7',
     skin_tone_support: false
   },
   '☦️': {
-    name: 'orthodox cross',
+    name: 'orthodox-cross',
     group: 'Symbols',
     version: '1.0',
     skin_tone_support: false
   },
   '☪️': {
-    name: 'star and crescent',
+    name: 'star-and-crescent',
     group: 'Symbols',
     version: '0.7',
     skin_tone_support: false
   },
   '☮️': {
-    name: 'peace symbol',
+    name: 'peace-symbol',
     group: 'Symbols',
     version: '1.0',
     skin_tone_support: false
@@ -8526,7 +8526,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🔯': {
-    name: 'dotted six-pointed star',
+    name: 'dotted-six-pointed-star',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
@@ -8610,109 +8610,109 @@ export const emojis = {
     skin_tone_support: false
   },
   '🔀': {
-    name: 'shuffle tracks button',
+    name: 'shuffle-tracks-button',
     group: 'Symbols',
     version: '1.0',
     skin_tone_support: false
   },
   '🔁': {
-    name: 'repeat button',
+    name: 'repeat-button',
     group: 'Symbols',
     version: '1.0',
     skin_tone_support: false
   },
   '🔂': {
-    name: 'repeat single button',
+    name: 'repeat-single-button',
     group: 'Symbols',
     version: '1.0',
     skin_tone_support: false
   },
   '▶️': {
-    name: 'play button',
+    name: 'play-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '⏩': {
-    name: 'fast-forward button',
+    name: 'fast-forward-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '⏭️': {
-    name: 'next track button',
+    name: 'next-track-button',
     group: 'Symbols',
     version: '0.7',
     skin_tone_support: false
   },
   '⏯️': {
-    name: 'play or pause button',
+    name: 'play-or-pause-button',
     group: 'Symbols',
     version: '1.0',
     skin_tone_support: false
   },
   '◀️': {
-    name: 'reverse button',
+    name: 'reverse-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '⏪': {
-    name: 'fast reverse button',
+    name: 'fast-reverse-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '⏮️': {
-    name: 'last track button',
+    name: 'last-track-button',
     group: 'Symbols',
     version: '0.7',
     skin_tone_support: false
   },
   '🔼': {
-    name: 'upwards button',
+    name: 'upwards-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '⏫': {
-    name: 'fast up button',
+    name: 'fast-up-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🔽': {
-    name: 'downwards button',
+    name: 'downwards-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '⏬': {
-    name: 'fast down button',
+    name: 'fast-down-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '⏸️': {
-    name: 'pause button',
+    name: 'pause-button',
     group: 'Symbols',
     version: '0.7',
     skin_tone_support: false
   },
   '⏹️': {
-    name: 'stop button',
+    name: 'stop-button',
     group: 'Symbols',
     version: '0.7',
     skin_tone_support: false
   },
   '⏺️': {
-    name: 'record button',
+    name: 'record-button',
     group: 'Symbols',
     version: '0.7',
     skin_tone_support: false
   },
   '⏏️': {
-    name: 'eject button',
+    name: 'eject-button',
     group: 'Symbols',
     version: '1.0',
     skin_tone_support: false
@@ -8724,49 +8724,49 @@ export const emojis = {
     skin_tone_support: false
   },
   '🔅': {
-    name: 'dim button',
+    name: 'dim-button',
     group: 'Symbols',
     version: '1.0',
     skin_tone_support: false
   },
   '🔆': {
-    name: 'bright button',
+    name: 'bright-button',
     group: 'Symbols',
     version: '1.0',
     skin_tone_support: false
   },
   '📶': {
-    name: 'antenna bars',
+    name: 'antenna-bars',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '📳': {
-    name: 'vibration mode',
+    name: 'vibration-mode',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '📴': {
-    name: 'mobile phone off',
+    name: 'mobile-phone-off',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '♀️': {
-    name: 'female sign',
+    name: 'female-sign',
     group: 'Symbols',
     version: '4.0',
     skin_tone_support: false
   },
   '♂️': {
-    name: 'male sign',
+    name: 'male-sign',
     group: 'Symbols',
     version: '4.0',
     skin_tone_support: false
   },
   '⚧️': {
-    name: 'transgender symbol',
+    name: 'transgender-symbol',
     group: 'Symbols',
     version: '13.0',
     skin_tone_support: false
@@ -8802,67 +8802,67 @@ export const emojis = {
     skin_tone_support: false
   },
   '‼️': {
-    name: 'double exclamation mark',
+    name: 'double-exclamation-mark',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '⁉️': {
-    name: 'exclamation question mark',
+    name: 'exclamation-question-mark',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '❓': {
-    name: 'red question mark',
+    name: 'red-question-mark',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '❔': {
-    name: 'white question mark',
+    name: 'white-question-mark',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '❕': {
-    name: 'white exclamation mark',
+    name: 'white-exclamation-mark',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '❗': {
-    name: 'red exclamation mark',
+    name: 'red-exclamation-mark',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '〰️': {
-    name: 'wavy dash',
+    name: 'wavy-dash',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '💱': {
-    name: 'currency exchange',
+    name: 'currency-exchange',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '💲': {
-    name: 'heavy dollar sign',
+    name: 'heavy-dollar-sign',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '⚕️': {
-    name: 'medical symbol',
+    name: 'medical-symbol',
     group: 'Symbols',
     version: '4.0',
     skin_tone_support: false
   },
   '♻️': {
-    name: 'recycling symbol',
+    name: 'recycling-symbol',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
@@ -8874,85 +8874,85 @@ export const emojis = {
     skin_tone_support: false
   },
   '🔱': {
-    name: 'trident emblem',
+    name: 'trident-emblem',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '📛': {
-    name: 'name badge',
+    name: 'name-badge',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🔰': {
-    name: 'Japanese symbol for beginner',
+    name: 'Japanese-symbol-for-beginner',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '⭕': {
-    name: 'hollow red circle',
+    name: 'hollow-red-circle',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '✅': {
-    name: 'check mark button',
+    name: 'check-mark-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '☑️': {
-    name: 'check box with check',
+    name: 'check-box-with-check',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '✔️': {
-    name: 'check mark',
+    name: 'check-mark',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '❌': {
-    name: 'cross mark',
+    name: 'cross-mark',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '❎': {
-    name: 'cross mark button',
+    name: 'cross-mark-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '➰': {
-    name: 'curly loop',
+    name: 'curly-loop',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '➿': {
-    name: 'double curly loop',
+    name: 'double-curly-loop',
     group: 'Symbols',
     version: '1.0',
     skin_tone_support: false
   },
   '〽️': {
-    name: 'part alternation mark',
+    name: 'part-alternation-mark',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '✳️': {
-    name: 'eight-spoked asterisk',
+    name: 'eight-spoked-asterisk',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '✴️': {
-    name: 'eight-pointed star',
+    name: 'eight-pointed-star',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
@@ -8976,151 +8976,151 @@ export const emojis = {
     skin_tone_support: false
   },
   '™️': {
-    name: 'trade mark',
+    name: 'trade-mark',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '#️⃣': {
-    name: 'keycap #',
+    name: 'keycap-#',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '*️⃣': {
-    name: 'keycap *',
+    name: 'keycap-*',
     group: 'Symbols',
     version: '2.0',
     skin_tone_support: false
   },
   '0️⃣': {
-    name: 'keycap 0',
+    name: 'keycap-0',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '1️⃣': {
-    name: 'keycap 1',
+    name: 'keycap-1',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '2️⃣': {
-    name: 'keycap 2',
+    name: 'keycap-2',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '3️⃣': {
-    name: 'keycap 3',
+    name: 'keycap-3',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '4️⃣': {
-    name: 'keycap 4',
+    name: 'keycap-4',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '5️⃣': {
-    name: 'keycap 5',
+    name: 'keycap-5',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '6️⃣': {
-    name: 'keycap 6',
+    name: 'keycap-6',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '7️⃣': {
-    name: 'keycap 7',
+    name: 'keycap-7',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '8️⃣': {
-    name: 'keycap 8',
+    name: 'keycap-8',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '9️⃣': {
-    name: 'keycap 9',
+    name: 'keycap-9',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🔟': {
-    name: 'keycap 10',
+    name: 'keycap-10',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🔠': {
-    name: 'input latin uppercase',
+    name: 'input-latin-uppercase',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🔡': {
-    name: 'input latin lowercase',
+    name: 'input-latin-lowercase',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🔢': {
-    name: 'input numbers',
+    name: 'input-numbers',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🔣': {
-    name: 'input symbols',
+    name: 'input-symbols',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🔤': {
-    name: 'input latin letters',
+    name: 'input-latin-letters',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🅰️': {
-    name: 'A button (blood type)',
+    name: 'A-button-(blood-type)',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🆎': {
-    name: 'AB button (blood type)',
+    name: 'AB-button-(blood-type)',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🅱️': {
-    name: 'B button (blood type)',
+    name: 'B-button-(blood-type)',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🆑': {
-    name: 'CL button',
+    name: 'CL-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🆒': {
-    name: 'COOL button',
+    name: 'COOL-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🆓': {
-    name: 'FREE button',
+    name: 'FREE-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
@@ -9132,1981 +9132,1981 @@ export const emojis = {
     skin_tone_support: false
   },
   '🆔': {
-    name: 'ID button',
+    name: 'ID-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   'Ⓜ️': {
-    name: 'circled M',
+    name: 'circled-M',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🆕': {
-    name: 'NEW button',
+    name: 'NEW-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🆖': {
-    name: 'NG button',
+    name: 'NG-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🅾️': {
-    name: 'O button (blood type)',
+    name: 'O-button-(blood-type)',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🆗': {
-    name: 'OK button',
+    name: 'OK-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🅿️': {
-    name: 'P button',
+    name: 'P-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🆘': {
-    name: 'SOS button',
+    name: 'SOS-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🆙': {
-    name: 'UP! button',
+    name: 'UP!-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🆚': {
-    name: 'VS button',
+    name: 'VS-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🈁': {
-    name: 'Japanese “here” button',
+    name: 'Japanese-“here”-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🈂️': {
-    name: 'Japanese “service charge” button',
+    name: 'Japanese-“service-charge”-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🈷️': {
-    name: 'Japanese “monthly amount” button',
+    name: 'Japanese-“monthly-amount”-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🈶': {
-    name: 'Japanese “not free of charge” button',
+    name: 'Japanese-“not-free-of-charge”-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🈯': {
-    name: 'Japanese “reserved” button',
+    name: 'Japanese-“reserved”-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🉐': {
-    name: 'Japanese “bargain” button',
+    name: 'Japanese-“bargain”-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🈹': {
-    name: 'Japanese “discount” button',
+    name: 'Japanese-“discount”-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🈚': {
-    name: 'Japanese “free of charge” button',
+    name: 'Japanese-“free-of-charge”-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🈲': {
-    name: 'Japanese “prohibited” button',
+    name: 'Japanese-“prohibited”-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🉑': {
-    name: 'Japanese “acceptable” button',
+    name: 'Japanese-“acceptable”-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🈸': {
-    name: 'Japanese “application” button',
+    name: 'Japanese-“application”-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🈴': {
-    name: 'Japanese “passing grade” button',
+    name: 'Japanese-“passing-grade”-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🈳': {
-    name: 'Japanese “vacancy” button',
+    name: 'Japanese-“vacancy”-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '㊗️': {
-    name: 'Japanese “congratulations” button',
+    name: 'Japanese-“congratulations”-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '㊙️': {
-    name: 'Japanese “secret” button',
+    name: 'Japanese-“secret”-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🈺': {
-    name: 'Japanese “open for business” button',
+    name: 'Japanese-“open-for-business”-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🈵': {
-    name: 'Japanese “no vacancy” button',
+    name: 'Japanese-“no-vacancy”-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🔴': {
-    name: 'red circle',
+    name: 'red-circle',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🟠': {
-    name: 'orange circle',
+    name: 'orange-circle',
     group: 'Symbols',
     version: '12.0',
     skin_tone_support: false
   },
   '🟡': {
-    name: 'yellow circle',
+    name: 'yellow-circle',
     group: 'Symbols',
     version: '12.0',
     skin_tone_support: false
   },
   '🟢': {
-    name: 'green circle',
+    name: 'green-circle',
     group: 'Symbols',
     version: '12.0',
     skin_tone_support: false
   },
   '🔵': {
-    name: 'blue circle',
+    name: 'blue-circle',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🟣': {
-    name: 'purple circle',
+    name: 'purple-circle',
     group: 'Symbols',
     version: '12.0',
     skin_tone_support: false
   },
   '🟤': {
-    name: 'brown circle',
+    name: 'brown-circle',
     group: 'Symbols',
     version: '12.0',
     skin_tone_support: false
   },
   '⚫': {
-    name: 'black circle',
+    name: 'black-circle',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '⚪': {
-    name: 'white circle',
+    name: 'white-circle',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🟥': {
-    name: 'red square',
+    name: 'red-square',
     group: 'Symbols',
     version: '12.0',
     skin_tone_support: false
   },
   '🟧': {
-    name: 'orange square',
+    name: 'orange-square',
     group: 'Symbols',
     version: '12.0',
     skin_tone_support: false
   },
   '🟨': {
-    name: 'yellow square',
+    name: 'yellow-square',
     group: 'Symbols',
     version: '12.0',
     skin_tone_support: false
   },
   '🟩': {
-    name: 'green square',
+    name: 'green-square',
     group: 'Symbols',
     version: '12.0',
     skin_tone_support: false
   },
   '🟦': {
-    name: 'blue square',
+    name: 'blue-square',
     group: 'Symbols',
     version: '12.0',
     skin_tone_support: false
   },
   '🟪': {
-    name: 'purple square',
+    name: 'purple-square',
     group: 'Symbols',
     version: '12.0',
     skin_tone_support: false
   },
   '🟫': {
-    name: 'brown square',
+    name: 'brown-square',
     group: 'Symbols',
     version: '12.0',
     skin_tone_support: false
   },
   '⬛': {
-    name: 'black large square',
+    name: 'black-large-square',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '⬜': {
-    name: 'white large square',
+    name: 'white-large-square',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '◼️': {
-    name: 'black medium square',
+    name: 'black-medium-square',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '◻️': {
-    name: 'white medium square',
+    name: 'white-medium-square',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '◾': {
-    name: 'black medium-small square',
+    name: 'black-medium-small-square',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '◽': {
-    name: 'white medium-small square',
+    name: 'white-medium-small-square',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '▪️': {
-    name: 'black small square',
+    name: 'black-small-square',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '▫️': {
-    name: 'white small square',
+    name: 'white-small-square',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🔶': {
-    name: 'large orange diamond',
+    name: 'large-orange-diamond',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🔷': {
-    name: 'large blue diamond',
+    name: 'large-blue-diamond',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🔸': {
-    name: 'small orange diamond',
+    name: 'small-orange-diamond',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🔹': {
-    name: 'small blue diamond',
+    name: 'small-blue-diamond',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🔺': {
-    name: 'red triangle pointed up',
+    name: 'red-triangle-pointed-up',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🔻': {
-    name: 'red triangle pointed down',
+    name: 'red-triangle-pointed-down',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '💠': {
-    name: 'diamond with a dot',
+    name: 'diamond-with-a-dot',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🔘': {
-    name: 'radio button',
+    name: 'radio-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🔳': {
-    name: 'white square button',
+    name: 'white-square-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🔲': {
-    name: 'black square button',
+    name: 'black-square-button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '🏁': {
-    name: 'chequered flag',
+    name: 'chequered-flag',
     group: 'Flags',
     version: '0.6',
     skin_tone_support: false
   },
   '🚩': {
-    name: 'triangular flag',
+    name: 'triangular-flag',
     group: 'Flags',
     version: '0.6',
     skin_tone_support: false
   },
   '🎌': {
-    name: 'crossed flags',
+    name: 'crossed-flags',
     group: 'Flags',
     version: '0.6',
     skin_tone_support: false
   },
   '🏴': {
-    name: 'black flag',
+    name: 'black-flag',
     group: 'Flags',
     version: '1.0',
     skin_tone_support: false
   },
   '🏳️': {
-    name: 'white flag',
+    name: 'white-flag',
     group: 'Flags',
     version: '0.7',
     skin_tone_support: false
   },
   '🏳️‍🌈': {
-    name: 'rainbow flag',
+    name: 'rainbow-flag',
     group: 'Flags',
     version: '4.0',
     skin_tone_support: false
   },
   '🏳️‍⚧️': {
-    name: 'transgender flag',
+    name: 'transgender-flag',
     group: 'Flags',
     version: '13.0',
     skin_tone_support: false
   },
   '🏴‍☠️': {
-    name: 'pirate flag',
+    name: 'pirate-flag',
     group: 'Flags',
     version: '11.0',
     skin_tone_support: false
   },
   '🇦🇨': {
-    name: 'flag Ascension Island',
+    name: 'flag-Ascension-Island',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇦🇩': {
-    name: 'flag Andorra',
+    name: 'flag-Andorra',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇦🇪': {
-    name: 'flag United Arab Emirates',
+    name: 'flag-United-Arab-Emirates',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇦🇫': {
-    name: 'flag Afghanistan',
+    name: 'flag-Afghanistan',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇦🇬': {
-    name: 'flag Antigua & Barbuda',
+    name: 'flag-Antigua-&-Barbuda',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇦🇮': {
-    name: 'flag Anguilla',
+    name: 'flag-Anguilla',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇦🇱': {
-    name: 'flag Albania',
+    name: 'flag-Albania',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇦🇲': {
-    name: 'flag Armenia',
+    name: 'flag-Armenia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇦🇴': {
-    name: 'flag Angola',
+    name: 'flag-Angola',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇦🇶': {
-    name: 'flag Antarctica',
+    name: 'flag-Antarctica',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇦🇷': {
-    name: 'flag Argentina',
+    name: 'flag-Argentina',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇦🇸': {
-    name: 'flag American Samoa',
+    name: 'flag-American-Samoa',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇦🇹': {
-    name: 'flag Austria',
+    name: 'flag-Austria',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇦🇺': {
-    name: 'flag Australia',
+    name: 'flag-Australia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇦🇼': {
-    name: 'flag Aruba',
+    name: 'flag-Aruba',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇦🇽': {
-    name: 'flag Åland Islands',
+    name: 'flag-Åland-Islands',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇦🇿': {
-    name: 'flag Azerbaijan',
+    name: 'flag-Azerbaijan',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇧🇦': {
-    name: 'flag Bosnia & Herzegovina',
+    name: 'flag-Bosnia-&-Herzegovina',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇧🇧': {
-    name: 'flag Barbados',
+    name: 'flag-Barbados',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇧🇩': {
-    name: 'flag Bangladesh',
+    name: 'flag-Bangladesh',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇧🇪': {
-    name: 'flag Belgium',
+    name: 'flag-Belgium',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇧🇫': {
-    name: 'flag Burkina Faso',
+    name: 'flag-Burkina-Faso',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇧🇬': {
-    name: 'flag Bulgaria',
+    name: 'flag-Bulgaria',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇧🇭': {
-    name: 'flag Bahrain',
+    name: 'flag-Bahrain',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇧🇮': {
-    name: 'flag Burundi',
+    name: 'flag-Burundi',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇧🇯': {
-    name: 'flag Benin',
+    name: 'flag-Benin',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇧🇱': {
-    name: 'flag St. Barthélemy',
+    name: 'flag-St.-Barthélemy',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇧🇲': {
-    name: 'flag Bermuda',
+    name: 'flag-Bermuda',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇧🇳': {
-    name: 'flag Brunei',
+    name: 'flag-Brunei',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇧🇴': {
-    name: 'flag Bolivia',
+    name: 'flag-Bolivia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇧🇶': {
-    name: 'flag Caribbean Netherlands',
+    name: 'flag-Caribbean-Netherlands',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇧🇷': {
-    name: 'flag Brazil',
+    name: 'flag-Brazil',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇧🇸': {
-    name: 'flag Bahamas',
+    name: 'flag-Bahamas',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇧🇹': {
-    name: 'flag Bhutan',
+    name: 'flag-Bhutan',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇧🇻': {
-    name: 'flag Bouvet Island',
+    name: 'flag-Bouvet-Island',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇧🇼': {
-    name: 'flag Botswana',
+    name: 'flag-Botswana',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇧🇾': {
-    name: 'flag Belarus',
+    name: 'flag-Belarus',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇧🇿': {
-    name: 'flag Belize',
+    name: 'flag-Belize',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇨🇦': {
-    name: 'flag Canada',
+    name: 'flag-Canada',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇨🇨': {
-    name: 'flag Cocos (Keeling) Islands',
+    name: 'flag-Cocos-(Keeling)-Islands',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇨🇩': {
-    name: 'flag Congo - Kinshasa',
+    name: 'flag-Congo---Kinshasa',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇨🇫': {
-    name: 'flag Central African Republic',
+    name: 'flag-Central-African-Republic',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇨🇬': {
-    name: 'flag Congo - Brazzaville',
+    name: 'flag-Congo---Brazzaville',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇨🇭': {
-    name: 'flag Switzerland',
+    name: 'flag-Switzerland',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇨🇮': {
-    name: 'flag Côte d’Ivoire',
+    name: 'flag-Côte-d’Ivoire',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇨🇰': {
-    name: 'flag Cook Islands',
+    name: 'flag-Cook-Islands',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇨🇱': {
-    name: 'flag Chile',
+    name: 'flag-Chile',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇨🇲': {
-    name: 'flag Cameroon',
+    name: 'flag-Cameroon',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇨🇳': {
-    name: 'flag China',
+    name: 'flag-China',
     group: 'Flags',
     version: '0.6',
     skin_tone_support: false
   },
   '🇨🇴': {
-    name: 'flag Colombia',
+    name: 'flag-Colombia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇨🇵': {
-    name: 'flag Clipperton Island',
+    name: 'flag-Clipperton-Island',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇨🇷': {
-    name: 'flag Costa Rica',
+    name: 'flag-Costa-Rica',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇨🇺': {
-    name: 'flag Cuba',
+    name: 'flag-Cuba',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇨🇻': {
-    name: 'flag Cape Verde',
+    name: 'flag-Cape-Verde',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇨🇼': {
-    name: 'flag Curaçao',
+    name: 'flag-Curaçao',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇨🇽': {
-    name: 'flag Christmas Island',
+    name: 'flag-Christmas-Island',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇨🇾': {
-    name: 'flag Cyprus',
+    name: 'flag-Cyprus',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇨🇿': {
-    name: 'flag Czechia',
+    name: 'flag-Czechia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇩🇪': {
-    name: 'flag Germany',
+    name: 'flag-Germany',
     group: 'Flags',
     version: '0.6',
     skin_tone_support: false
   },
   '🇩🇬': {
-    name: 'flag Diego Garcia',
+    name: 'flag-Diego-Garcia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇩🇯': {
-    name: 'flag Djibouti',
+    name: 'flag-Djibouti',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇩🇰': {
-    name: 'flag Denmark',
+    name: 'flag-Denmark',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇩🇲': {
-    name: 'flag Dominica',
+    name: 'flag-Dominica',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇩🇴': {
-    name: 'flag Dominican Republic',
+    name: 'flag-Dominican-Republic',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇩🇿': {
-    name: 'flag Algeria',
+    name: 'flag-Algeria',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇪🇦': {
-    name: 'flag Ceuta & Melilla',
+    name: 'flag-Ceuta-&-Melilla',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇪🇨': {
-    name: 'flag Ecuador',
+    name: 'flag-Ecuador',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇪🇪': {
-    name: 'flag Estonia',
+    name: 'flag-Estonia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇪🇬': {
-    name: 'flag Egypt',
+    name: 'flag-Egypt',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇪🇭': {
-    name: 'flag Western Sahara',
+    name: 'flag-Western-Sahara',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇪🇷': {
-    name: 'flag Eritrea',
+    name: 'flag-Eritrea',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇪🇸': {
-    name: 'flag Spain',
+    name: 'flag-Spain',
     group: 'Flags',
     version: '0.6',
     skin_tone_support: false
   },
   '🇪🇹': {
-    name: 'flag Ethiopia',
+    name: 'flag-Ethiopia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇪🇺': {
-    name: 'flag European Union',
+    name: 'flag-European-Union',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇫🇮': {
-    name: 'flag Finland',
+    name: 'flag-Finland',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇫🇯': {
-    name: 'flag Fiji',
+    name: 'flag-Fiji',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇫🇰': {
-    name: 'flag Falkland Islands',
+    name: 'flag-Falkland-Islands',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇫🇲': {
-    name: 'flag Micronesia',
+    name: 'flag-Micronesia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇫🇴': {
-    name: 'flag Faroe Islands',
+    name: 'flag-Faroe-Islands',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇫🇷': {
-    name: 'flag France',
+    name: 'flag-France',
     group: 'Flags',
     version: '0.6',
     skin_tone_support: false
   },
   '🇬🇦': {
-    name: 'flag Gabon',
+    name: 'flag-Gabon',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇬🇧': {
-    name: 'flag United Kingdom',
+    name: 'flag-United-Kingdom',
     group: 'Flags',
     version: '0.6',
     skin_tone_support: false
   },
   '🇬🇩': {
-    name: 'flag Grenada',
+    name: 'flag-Grenada',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇬🇪': {
-    name: 'flag Georgia',
+    name: 'flag-Georgia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇬🇫': {
-    name: 'flag French Guiana',
+    name: 'flag-French-Guiana',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇬🇬': {
-    name: 'flag Guernsey',
+    name: 'flag-Guernsey',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇬🇭': {
-    name: 'flag Ghana',
+    name: 'flag-Ghana',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇬🇮': {
-    name: 'flag Gibraltar',
+    name: 'flag-Gibraltar',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇬🇱': {
-    name: 'flag Greenland',
+    name: 'flag-Greenland',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇬🇲': {
-    name: 'flag Gambia',
+    name: 'flag-Gambia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇬🇳': {
-    name: 'flag Guinea',
+    name: 'flag-Guinea',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇬🇵': {
-    name: 'flag Guadeloupe',
+    name: 'flag-Guadeloupe',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇬🇶': {
-    name: 'flag Equatorial Guinea',
+    name: 'flag-Equatorial-Guinea',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇬🇷': {
-    name: 'flag Greece',
+    name: 'flag-Greece',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇬🇸': {
-    name: 'flag South Georgia & South Sandwich Islands',
+    name: 'flag-South-Georgia-&-South-Sandwich-Islands',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇬🇹': {
-    name: 'flag Guatemala',
+    name: 'flag-Guatemala',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇬🇺': {
-    name: 'flag Guam',
+    name: 'flag-Guam',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇬🇼': {
-    name: 'flag Guinea-Bissau',
+    name: 'flag-Guinea-Bissau',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇬🇾': {
-    name: 'flag Guyana',
+    name: 'flag-Guyana',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇭🇰': {
-    name: 'flag Hong Kong SAR China',
+    name: 'flag-Hong-Kong-SAR-China',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇭🇲': {
-    name: 'flag Heard & McDonald Islands',
+    name: 'flag-Heard-&-McDonald-Islands',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇭🇳': {
-    name: 'flag Honduras',
+    name: 'flag-Honduras',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇭🇷': {
-    name: 'flag Croatia',
+    name: 'flag-Croatia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇭🇹': {
-    name: 'flag Haiti',
+    name: 'flag-Haiti',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇭🇺': {
-    name: 'flag Hungary',
+    name: 'flag-Hungary',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇮🇨': {
-    name: 'flag Canary Islands',
+    name: 'flag-Canary-Islands',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇮🇩': {
-    name: 'flag Indonesia',
+    name: 'flag-Indonesia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇮🇪': {
-    name: 'flag Ireland',
+    name: 'flag-Ireland',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇮🇱': {
-    name: 'flag Israel',
+    name: 'flag-Israel',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇮🇲': {
-    name: 'flag Isle of Man',
+    name: 'flag-Isle-of-Man',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇮🇳': {
-    name: 'flag India',
+    name: 'flag-India',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇮🇴': {
-    name: 'flag British Indian Ocean Territory',
+    name: 'flag-British-Indian-Ocean-Territory',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇮🇶': {
-    name: 'flag Iraq',
+    name: 'flag-Iraq',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇮🇷': {
-    name: 'flag Iran',
+    name: 'flag-Iran',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇮🇸': {
-    name: 'flag Iceland',
+    name: 'flag-Iceland',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇮🇹': {
-    name: 'flag Italy',
+    name: 'flag-Italy',
     group: 'Flags',
     version: '0.6',
     skin_tone_support: false
   },
   '🇯🇪': {
-    name: 'flag Jersey',
+    name: 'flag-Jersey',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇯🇲': {
-    name: 'flag Jamaica',
+    name: 'flag-Jamaica',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇯🇴': {
-    name: 'flag Jordan',
+    name: 'flag-Jordan',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇯🇵': {
-    name: 'flag Japan',
+    name: 'flag-Japan',
     group: 'Flags',
     version: '0.6',
     skin_tone_support: false
   },
   '🇰🇪': {
-    name: 'flag Kenya',
+    name: 'flag-Kenya',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇰🇬': {
-    name: 'flag Kyrgyzstan',
+    name: 'flag-Kyrgyzstan',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇰🇭': {
-    name: 'flag Cambodia',
+    name: 'flag-Cambodia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇰🇮': {
-    name: 'flag Kiribati',
+    name: 'flag-Kiribati',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇰🇲': {
-    name: 'flag Comoros',
+    name: 'flag-Comoros',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇰🇳': {
-    name: 'flag St. Kitts & Nevis',
+    name: 'flag-St.-Kitts-&-Nevis',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇰🇵': {
-    name: 'flag North Korea',
+    name: 'flag-North-Korea',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇰🇷': {
-    name: 'flag South Korea',
+    name: 'flag-South-Korea',
     group: 'Flags',
     version: '0.6',
     skin_tone_support: false
   },
   '🇰🇼': {
-    name: 'flag Kuwait',
+    name: 'flag-Kuwait',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇰🇾': {
-    name: 'flag Cayman Islands',
+    name: 'flag-Cayman-Islands',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇰🇿': {
-    name: 'flag Kazakhstan',
+    name: 'flag-Kazakhstan',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇱🇦': {
-    name: 'flag Laos',
+    name: 'flag-Laos',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇱🇧': {
-    name: 'flag Lebanon',
+    name: 'flag-Lebanon',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇱🇨': {
-    name: 'flag St. Lucia',
+    name: 'flag-St.-Lucia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇱🇮': {
-    name: 'flag Liechtenstein',
+    name: 'flag-Liechtenstein',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇱🇰': {
-    name: 'flag Sri Lanka',
+    name: 'flag-Sri-Lanka',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇱🇷': {
-    name: 'flag Liberia',
+    name: 'flag-Liberia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇱🇸': {
-    name: 'flag Lesotho',
+    name: 'flag-Lesotho',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇱🇹': {
-    name: 'flag Lithuania',
+    name: 'flag-Lithuania',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇱🇺': {
-    name: 'flag Luxembourg',
+    name: 'flag-Luxembourg',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇱🇻': {
-    name: 'flag Latvia',
+    name: 'flag-Latvia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇱🇾': {
-    name: 'flag Libya',
+    name: 'flag-Libya',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇲🇦': {
-    name: 'flag Morocco',
+    name: 'flag-Morocco',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇲🇨': {
-    name: 'flag Monaco',
+    name: 'flag-Monaco',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇲🇩': {
-    name: 'flag Moldova',
+    name: 'flag-Moldova',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇲🇪': {
-    name: 'flag Montenegro',
+    name: 'flag-Montenegro',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇲🇫': {
-    name: 'flag St. Martin',
+    name: 'flag-St.-Martin',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇲🇬': {
-    name: 'flag Madagascar',
+    name: 'flag-Madagascar',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇲🇭': {
-    name: 'flag Marshall Islands',
+    name: 'flag-Marshall-Islands',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇲🇰': {
-    name: 'flag North Macedonia',
+    name: 'flag-North-Macedonia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇲🇱': {
-    name: 'flag Mali',
+    name: 'flag-Mali',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇲🇲': {
-    name: 'flag Myanmar (Burma)',
+    name: 'flag-Myanmar-(Burma)',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇲🇳': {
-    name: 'flag Mongolia',
+    name: 'flag-Mongolia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇲🇴': {
-    name: 'flag Macao SAR China',
+    name: 'flag-Macao-SAR-China',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇲🇵': {
-    name: 'flag Northern Mariana Islands',
+    name: 'flag-Northern-Mariana-Islands',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇲🇶': {
-    name: 'flag Martinique',
+    name: 'flag-Martinique',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇲🇷': {
-    name: 'flag Mauritania',
+    name: 'flag-Mauritania',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇲🇸': {
-    name: 'flag Montserrat',
+    name: 'flag-Montserrat',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇲🇹': {
-    name: 'flag Malta',
+    name: 'flag-Malta',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇲🇺': {
-    name: 'flag Mauritius',
+    name: 'flag-Mauritius',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇲🇻': {
-    name: 'flag Maldives',
+    name: 'flag-Maldives',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇲🇼': {
-    name: 'flag Malawi',
+    name: 'flag-Malawi',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇲🇽': {
-    name: 'flag Mexico',
+    name: 'flag-Mexico',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇲🇾': {
-    name: 'flag Malaysia',
+    name: 'flag-Malaysia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇲🇿': {
-    name: 'flag Mozambique',
+    name: 'flag-Mozambique',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇳🇦': {
-    name: 'flag Namibia',
+    name: 'flag-Namibia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇳🇨': {
-    name: 'flag New Caledonia',
+    name: 'flag-New-Caledonia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇳🇪': {
-    name: 'flag Niger',
+    name: 'flag-Niger',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇳🇫': {
-    name: 'flag Norfolk Island',
+    name: 'flag-Norfolk-Island',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇳🇬': {
-    name: 'flag Nigeria',
+    name: 'flag-Nigeria',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇳🇮': {
-    name: 'flag Nicaragua',
+    name: 'flag-Nicaragua',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇳🇱': {
-    name: 'flag Netherlands',
+    name: 'flag-Netherlands',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇳🇴': {
-    name: 'flag Norway',
+    name: 'flag-Norway',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇳🇵': {
-    name: 'flag Nepal',
+    name: 'flag-Nepal',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇳🇷': {
-    name: 'flag Nauru',
+    name: 'flag-Nauru',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇳🇺': {
-    name: 'flag Niue',
+    name: 'flag-Niue',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇳🇿': {
-    name: 'flag New Zealand',
+    name: 'flag-New-Zealand',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇴🇲': {
-    name: 'flag Oman',
+    name: 'flag-Oman',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇵🇦': {
-    name: 'flag Panama',
+    name: 'flag-Panama',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇵🇪': {
-    name: 'flag Peru',
+    name: 'flag-Peru',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇵🇫': {
-    name: 'flag French Polynesia',
+    name: 'flag-French-Polynesia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇵🇬': {
-    name: 'flag Papua New Guinea',
+    name: 'flag-Papua-New-Guinea',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇵🇭': {
-    name: 'flag Philippines',
+    name: 'flag-Philippines',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇵🇰': {
-    name: 'flag Pakistan',
+    name: 'flag-Pakistan',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇵🇱': {
-    name: 'flag Poland',
+    name: 'flag-Poland',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇵🇲': {
-    name: 'flag St. Pierre & Miquelon',
+    name: 'flag-St.-Pierre-&-Miquelon',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇵🇳': {
-    name: 'flag Pitcairn Islands',
+    name: 'flag-Pitcairn-Islands',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇵🇷': {
-    name: 'flag Puerto Rico',
+    name: 'flag-Puerto-Rico',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇵🇸': {
-    name: 'flag Palestinian Territories',
+    name: 'flag-Palestinian-Territories',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇵🇹': {
-    name: 'flag Portugal',
+    name: 'flag-Portugal',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇵🇼': {
-    name: 'flag Palau',
+    name: 'flag-Palau',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇵🇾': {
-    name: 'flag Paraguay',
+    name: 'flag-Paraguay',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇶🇦': {
-    name: 'flag Qatar',
+    name: 'flag-Qatar',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇷🇪': {
-    name: 'flag Réunion',
+    name: 'flag-Réunion',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇷🇴': {
-    name: 'flag Romania',
+    name: 'flag-Romania',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇷🇸': {
-    name: 'flag Serbia',
+    name: 'flag-Serbia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇷🇺': {
-    name: 'flag Russia',
+    name: 'flag-Russia',
     group: 'Flags',
     version: '0.6',
     skin_tone_support: false
   },
   '🇷🇼': {
-    name: 'flag Rwanda',
+    name: 'flag-Rwanda',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇸🇦': {
-    name: 'flag Saudi Arabia',
+    name: 'flag-Saudi-Arabia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇸🇧': {
-    name: 'flag Solomon Islands',
+    name: 'flag-Solomon-Islands',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇸🇨': {
-    name: 'flag Seychelles',
+    name: 'flag-Seychelles',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇸🇩': {
-    name: 'flag Sudan',
+    name: 'flag-Sudan',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇸🇪': {
-    name: 'flag Sweden',
+    name: 'flag-Sweden',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇸🇬': {
-    name: 'flag Singapore',
+    name: 'flag-Singapore',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇸🇭': {
-    name: 'flag St. Helena',
+    name: 'flag-St.-Helena',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇸🇮': {
-    name: 'flag Slovenia',
+    name: 'flag-Slovenia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇸🇯': {
-    name: 'flag Svalbard & Jan Mayen',
+    name: 'flag-Svalbard-&-Jan-Mayen',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇸🇰': {
-    name: 'flag Slovakia',
+    name: 'flag-Slovakia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇸🇱': {
-    name: 'flag Sierra Leone',
+    name: 'flag-Sierra-Leone',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇸🇲': {
-    name: 'flag San Marino',
+    name: 'flag-San-Marino',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇸🇳': {
-    name: 'flag Senegal',
+    name: 'flag-Senegal',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇸🇴': {
-    name: 'flag Somalia',
+    name: 'flag-Somalia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇸🇷': {
-    name: 'flag Suriname',
+    name: 'flag-Suriname',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇸🇸': {
-    name: 'flag South Sudan',
+    name: 'flag-South-Sudan',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇸🇹': {
-    name: 'flag São Tomé & Príncipe',
+    name: 'flag-São-Tomé-&-Príncipe',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇸🇻': {
-    name: 'flag El Salvador',
+    name: 'flag-El-Salvador',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇸🇽': {
-    name: 'flag Sint Maarten',
+    name: 'flag-Sint-Maarten',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇸🇾': {
-    name: 'flag Syria',
+    name: 'flag-Syria',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇸🇿': {
-    name: 'flag Eswatini',
+    name: 'flag-Eswatini',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇹🇦': {
-    name: 'flag Tristan da Cunha',
+    name: 'flag-Tristan-da-Cunha',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇹🇨': {
-    name: 'flag Turks & Caicos Islands',
+    name: 'flag-Turks-&-Caicos-Islands',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇹🇩': {
-    name: 'flag Chad',
+    name: 'flag-Chad',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇹🇫': {
-    name: 'flag French Southern Territories',
+    name: 'flag-French-Southern-Territories',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇹🇬': {
-    name: 'flag Togo',
+    name: 'flag-Togo',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇹🇭': {
-    name: 'flag Thailand',
+    name: 'flag-Thailand',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇹🇯': {
-    name: 'flag Tajikistan',
+    name: 'flag-Tajikistan',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇹🇰': {
-    name: 'flag Tokelau',
+    name: 'flag-Tokelau',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇹🇱': {
-    name: 'flag Timor-Leste',
+    name: 'flag-Timor-Leste',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇹🇲': {
-    name: 'flag Turkmenistan',
+    name: 'flag-Turkmenistan',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇹🇳': {
-    name: 'flag Tunisia',
+    name: 'flag-Tunisia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇹🇴': {
-    name: 'flag Tonga',
+    name: 'flag-Tonga',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇹🇷': {
-    name: 'flag Turkey',
+    name: 'flag-Turkey',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇹🇹': {
-    name: 'flag Trinidad & Tobago',
+    name: 'flag-Trinidad-&-Tobago',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇹🇻': {
-    name: 'flag Tuvalu',
+    name: 'flag-Tuvalu',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇹🇼': {
-    name: 'flag Taiwan',
+    name: 'flag-Taiwan',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇹🇿': {
-    name: 'flag Tanzania',
+    name: 'flag-Tanzania',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇺🇦': {
-    name: 'flag Ukraine',
+    name: 'flag-Ukraine',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇺🇬': {
-    name: 'flag Uganda',
+    name: 'flag-Uganda',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇺🇲': {
-    name: 'flag U.S. Outlying Islands',
+    name: 'flag-U.S.-Outlying-Islands',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇺🇳': {
-    name: 'flag United Nations',
+    name: 'flag-United-Nations',
     group: 'Flags',
     version: '4.0',
     skin_tone_support: false
   },
   '🇺🇸': {
-    name: 'flag United States',
+    name: 'flag-United-States',
     group: 'Flags',
     version: '0.6',
     skin_tone_support: false
   },
   '🇺🇾': {
-    name: 'flag Uruguay',
+    name: 'flag-Uruguay',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇺🇿': {
-    name: 'flag Uzbekistan',
+    name: 'flag-Uzbekistan',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇻🇦': {
-    name: 'flag Vatican City',
+    name: 'flag-Vatican-City',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇻🇨': {
-    name: 'flag St. Vincent & Grenadines',
+    name: 'flag-St.-Vincent-&-Grenadines',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇻🇪': {
-    name: 'flag Venezuela',
+    name: 'flag-Venezuela',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇻🇬': {
-    name: 'flag British Virgin Islands',
+    name: 'flag-British-Virgin-Islands',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇻🇮': {
-    name: 'flag U.S. Virgin Islands',
+    name: 'flag-U.S.-Virgin-Islands',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇻🇳': {
-    name: 'flag Vietnam',
+    name: 'flag-Vietnam',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇻🇺': {
-    name: 'flag Vanuatu',
+    name: 'flag-Vanuatu',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇼🇫': {
-    name: 'flag Wallis & Futuna',
+    name: 'flag-Wallis-&-Futuna',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇼🇸': {
-    name: 'flag Samoa',
+    name: 'flag-Samoa',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇽🇰': {
-    name: 'flag Kosovo',
+    name: 'flag-Kosovo',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇾🇪': {
-    name: 'flag Yemen',
+    name: 'flag-Yemen',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇾🇹': {
-    name: 'flag Mayotte',
+    name: 'flag-Mayotte',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇿🇦': {
-    name: 'flag South Africa',
+    name: 'flag-South-Africa',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇿🇲': {
-    name: 'flag Zambia',
+    name: 'flag-Zambia',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🇿🇼': {
-    name: 'flag Zimbabwe',
+    name: 'flag-Zimbabwe',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
   },
   '🏴󠁧󠁢󠁥󠁮󠁧󠁿': {
-    name: 'flag England',
+    name: 'flag-England',
     group: 'Flags',
     version: '5.0',
     skin_tone_support: false
   },
   '🏴󠁧󠁢󠁳󠁣󠁴󠁿': {
-    name: 'flag Scotland',
+    name: 'flag-Scotland',
     group: 'Flags',
     version: '5.0',
     skin_tone_support: false
   },
   '🏴󠁧󠁢󠁷󠁬󠁳󠁿': {
-    name: 'flag Wales',
+    name: 'flag-Wales',
     group: 'Flags',
     version: '5.0',
     skin_tone_support: false
