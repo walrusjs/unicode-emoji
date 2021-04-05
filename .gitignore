@@ -2,3 +2,7 @@ node_modules
 emoji-group.txt
 emoji-order.txt
 emoji-counts.html
+
+lib
+es
+dist
