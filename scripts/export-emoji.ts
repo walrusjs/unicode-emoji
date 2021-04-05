@@ -71,7 +71,7 @@ orderedEmojiData.split('\n').forEach((line) => {
     }
     currentEmoji = emojiWithOptionalVariation16;
     orderedEmoji.push(currentEmoji);
-    dataByEmoji[currentEmoji].name = fullName.split(' ').join('-');
+    dataByEmoji[currentEmoji].name = fullName.split(' ').join('_');
     dataByEmoji[currentEmoji].skin_tone_support = false;
   }
 });
