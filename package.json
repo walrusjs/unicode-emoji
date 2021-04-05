@@ -1,6 +1,6 @@
 {
   "name": "@walrus/unicode-emoji",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "git@github.com:walrusjs/unicode-emoji.git",
   "author": "wangxingkang <wang_xingkang@qq.com>",
   "main": "lib/index.js",
