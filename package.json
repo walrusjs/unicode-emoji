@@ -11,7 +11,7 @@
   ],
   "scripts": {
     "download": "walrus run ./scripts/download-unicode-data.ts",
-    "export": "walrus run ./scripts/export-emoji.ts",
+    "export": "walrus run ./scripts/export.ts",
     "build": "rimraf lib && tsc -p tsconfig.build.json",
     "prettier": "pretty-quick --staged",
     "release": "walrus release",

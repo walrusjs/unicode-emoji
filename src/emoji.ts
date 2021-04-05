@@ -54,7 +54,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🙃': {
-    name: 'upside-down_face',
+    name: 'upside_down_face',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
@@ -84,13 +84,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '😍': {
-    name: 'smiling_face_with_heart-eyes',
+    name: 'smiling_face_with_heart_eyes',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '🤩': {
-    name: 'star-struck',
+    name: 'star_struck',
     group: 'Smileys & Emotion',
     version: '5.0',
     skin_tone_support: false
@@ -162,7 +162,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🤑': {
-    name: 'money-mouth_face',
+    name: 'money_mouth_face',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
@@ -192,7 +192,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🤐': {
-    name: 'zipper-mouth_face',
+    name: 'zipper_mouth_face',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
@@ -294,7 +294,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🤕': {
-    name: 'face_with_head-bandage',
+    name: 'face_with_head_bandage',
     group: 'Smileys & Emotion',
     version: '1.0',
     skin_tone_support: false
@@ -336,7 +336,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '😵': {
-    name: 'knocked-out_face',
+    name: 'knocked_out_face',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
@@ -642,7 +642,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '😻': {
-    name: 'smiling_cat_with_heart-eyes',
+    name: 'smiling_cat_with_heart_eyes',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
@@ -678,19 +678,19 @@ export const emojis = {
     skin_tone_support: false
   },
   '🙈': {
-    name: 'see-no-evil_monkey',
+    name: 'see_no_evil_monkey',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '🙉': {
-    name: 'hear-no-evil_monkey',
+    name: 'hear_no_evil_monkey',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
   },
   '🙊': {
-    name: 'speak-no-evil_monkey',
+    name: 'speak_no_evil_monkey',
     group: 'Smileys & Emotion',
     version: '0.6',
     skin_tone_support: false
@@ -976,7 +976,7 @@ export const emojis = {
     skin_tone_support_version: '3.0'
   },
   '🤟': {
-    name: 'love-you_gesture',
+    name: 'love_you_gesture',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: true,
@@ -1067,14 +1067,14 @@ export const emojis = {
     skin_tone_support_version: '1.0'
   },
   '🤛': {
-    name: 'left-facing_fist',
+    name: 'left_facing_fist',
     group: 'People & Body',
     version: '3.0',
     skin_tone_support: true,
     skin_tone_support_version: '3.0'
   },
   '🤜': {
-    name: 'right-facing_fist',
+    name: 'right_facing_fist',
     group: 'People & Body',
     version: '3.0',
     skin_tone_support: true,
@@ -2168,7 +2168,7 @@ export const emojis = {
     skin_tone_support_version: '3.0'
   },
   '🤱': {
-    name: 'breast-feeding',
+    name: 'breast_feeding',
     group: 'People & Body',
     version: '5.0',
     skin_tone_support: true,
@@ -3492,7 +3492,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🐫': {
-    name: 'two-hump_camel',
+    name: 'two_hump_camel',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
@@ -3684,7 +3684,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🐥': {
-    name: 'front-facing_baby_chick',
+    name: 'front_facing_baby_chick',
     group: 'Animals & Nature',
     version: '0.6',
     skin_tone_support: false
@@ -3810,7 +3810,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🦖': {
-    name: 'T-Rex',
+    name: 'T_Rex',
     group: 'Animals & Nature',
     version: '5.0',
     skin_tone_support: false
@@ -4884,7 +4884,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🌍': {
-    name: 'globe_showing_Europe-Africa',
+    name: 'globe_showing_Europe_Africa',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -4896,7 +4896,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🌏': {
-    name: 'globe_showing_Asia-Australia',
+    name: 'globe_showing_Asia_Australia',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -4926,7 +4926,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🏔️': {
-    name: 'snow-capped_mountain',
+    name: 'snow_capped_mountain',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -5286,7 +5286,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🚄': {
-    name: 'high-speed_train',
+    name: 'high_speed_train',
     group: 'Travel & Places',
     version: '0.6',
     skin_tone_support: false
@@ -5754,7 +5754,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🕧': {
-    name: 'twelve-thirty',
+    name: 'twelve_thirty',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -5766,7 +5766,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🕜': {
-    name: 'one-thirty',
+    name: 'one_thirty',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -5778,7 +5778,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🕝': {
-    name: 'two-thirty',
+    name: 'two_thirty',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -5790,7 +5790,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🕞': {
-    name: 'three-thirty',
+    name: 'three_thirty',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -5802,7 +5802,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🕟': {
-    name: 'four-thirty',
+    name: 'four_thirty',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -5814,7 +5814,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🕠': {
-    name: 'five-thirty',
+    name: 'five_thirty',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -5826,7 +5826,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🕡': {
-    name: 'six-thirty',
+    name: 'six_thirty',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -5838,7 +5838,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🕢': {
-    name: 'seven-thirty',
+    name: 'seven_thirty',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -5850,7 +5850,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🕣': {
-    name: 'eight-thirty',
+    name: 'eight_thirty',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -5862,7 +5862,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🕤': {
-    name: 'nine-thirty',
+    name: 'nine_thirty',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -5874,7 +5874,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🕥': {
-    name: 'ten-thirty',
+    name: 'ten_thirty',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -5886,7 +5886,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🕦': {
-    name: 'eleven-thirty',
+    name: 'eleven_thirty',
     group: 'Travel & Places',
     version: '0.7',
     skin_tone_support: false
@@ -6174,7 +6174,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🎃': {
-    name: 'jack-o-lantern',
+    name: 'jack_o_lantern',
     group: 'Activities',
     version: '0.6',
     skin_tone_support: false
@@ -6504,7 +6504,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🪀': {
-    name: 'yo-yo',
+    name: 'yo_yo',
     group: 'Activities',
     version: '12.0',
     skin_tone_support: false
@@ -6714,7 +6714,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '👕': {
-    name: 't-shirt',
+    name: 't_shirt',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -6768,7 +6768,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🩱': {
-    name: 'one-piece_swimsuit',
+    name: 'one_piece_swimsuit',
     group: 'Objects',
     version: '12.0',
     skin_tone_support: false
@@ -6858,7 +6858,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '👠': {
-    name: 'high-heeled_shoe',
+    name: 'high_heeled_shoe',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -7398,7 +7398,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🗞️': {
-    name: 'rolled-up_newspaper',
+    name: 'rolled_up_newspaper',
     group: 'Objects',
     version: '0.7',
     skin_tone_support: false
@@ -7488,7 +7488,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '📧': {
-    name: 'e-mail',
+    name: 'e_mail',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -7632,7 +7632,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '📆': {
-    name: 'tear-off_calendar',
+    name: 'tear_off_calendar',
     group: 'Objects',
     version: '0.6',
     skin_tone_support: false
@@ -8298,7 +8298,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🚱': {
-    name: 'non-potable_water',
+    name: 'non_potable_water',
     group: 'Symbols',
     version: '1.0',
     skin_tone_support: false
@@ -8340,7 +8340,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '↗️': {
-    name: 'up-right_arrow',
+    name: 'up_right_arrow',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
@@ -8352,7 +8352,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '↘️': {
-    name: 'down-right_arrow',
+    name: 'down_right_arrow',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
@@ -8364,7 +8364,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '↙️': {
-    name: 'down-left_arrow',
+    name: 'down_left_arrow',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
@@ -8376,19 +8376,19 @@ export const emojis = {
     skin_tone_support: false
   },
   '↖️': {
-    name: 'up-left_arrow',
+    name: 'up_left_arrow',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '↕️': {
-    name: 'up-down_arrow',
+    name: 'up_down_arrow',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '↔️': {
-    name: 'left-right_arrow',
+    name: 'left_right_arrow',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
@@ -8526,7 +8526,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🔯': {
-    name: 'dotted_six-pointed_star',
+    name: 'dotted_six_pointed_star',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
@@ -8634,7 +8634,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '⏩': {
-    name: 'fast-forward_button',
+    name: 'fast_forward_button',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
@@ -8868,7 +8868,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '⚜️': {
-    name: 'fleur-de-lis',
+    name: 'fleur_de_lis',
     group: 'Symbols',
     version: '1.0',
     skin_tone_support: false
@@ -8946,13 +8946,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '✳️': {
-    name: 'eight-spoked_asterisk',
+    name: 'eight_spoked_asterisk',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '✴️': {
-    name: 'eight-pointed_star',
+    name: 'eight_pointed_star',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
@@ -9414,13 +9414,13 @@ export const emojis = {
     skin_tone_support: false
   },
   '◾': {
-    name: 'black_medium-small_square',
+    name: 'black_medium_small_square',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
   },
   '◽': {
-    name: 'white_medium-small_square',
+    name: 'white_medium_small_square',
     group: 'Symbols',
     version: '0.6',
     skin_tone_support: false
@@ -9786,7 +9786,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🇨🇩': {
-    name: 'flag_Congo_-_Kinshasa',
+    name: 'flag_Congo___Kinshasa',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
@@ -9798,7 +9798,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🇨🇬': {
-    name: 'flag_Congo_-_Brazzaville',
+    name: 'flag_Congo___Brazzaville',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
@@ -10128,7 +10128,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🇬🇼': {
-    name: 'flag_Guinea-Bissau',
+    name: 'flag_Guinea_Bissau',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
@@ -10908,7 +10908,7 @@ export const emojis = {
     skin_tone_support: false
   },
   '🇹🇱': {
-    name: 'flag_Timor-Leste',
+    name: 'flag_Timor_Leste',
     group: 'Flags',
     version: '2.0',
     skin_tone_support: false
