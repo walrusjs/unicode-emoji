@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "declaration": true,
+    "target": "es5",
+    "module": "CommonJS",
+    "lib": ["esnext", "dom"]
+  }
+}

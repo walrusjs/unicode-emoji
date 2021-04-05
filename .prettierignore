@@ -1,0 +1,12 @@
+**/*.png
+**/*.svg
+.umi
+.umi-production
+dist
+LICENSE
+yarn.lock
+package.json
+.gitignore
+tsconfig.json
+.husky
+.commitlintrc.js
